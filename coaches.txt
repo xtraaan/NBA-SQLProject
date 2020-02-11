@@ -1,0 +1,361 @@
+coachID,Coach,From,To,Birth Date,College,Team ,Active
+1,Rick Adelman,1989,2014,June 16 1946,Loyola Marymount University,Golden State Warriors,0
+2,Richie Adubato,1980,1997,November 23 1937,,Phoenix Suns,0
+3,Danny Ainge,1997,2000,March 17 1959,Brigham Young University,San Antonio Spurs,0
+4,Stan Albeck,1971,1986,May 17 1931,Bradley University,Minnesota Timberwolves,0
+5,LaDell Andersen,1972,1973,October 25 1929,Utah State University,Orlando Magic,0
+6,Jack Ankerson,1976,1976,March 1 1942,Ripon College,Phoenix Suns,0
+7,Curly Armstrong,1949,1949,November 1 1918,Indiana University,New York Knicks,0
+8,Kenny Atkinson,2017,2019,June 2 1967,University of Richmond,Brooklyn Nets,1
+9,Al Attles*,1970,1983,November 7 1936,North Carolina Agricultural and Technical State University,Toronto Raptors,0
+10,Red Auerbach*,1947,1966,September 20 1917,George Washington University,Utah Jazz,0
+11,Randy Ayers,2004,2004,April 16 1956,Miami University,Chicago Bulls,0
+12,Johnny Bach,1980,1986,July 10 1924,Fordham University,Phoenix Suns,0
+13,Ed Badger,1977,1978,November 5 1932,University of Iowa,Sacramento Kings,0
+14,Tony Barone,2007,2007,July 20 1946,,Houston Rockets,0
+15,Tom Barrise,2010,2010,,,Dallas Mavericks,0
+16,Bob Bass,1968,1992,January 28 1929,Oklahoma Baptist University,Sacramento Kings,0
+17,Elgin Baylor*,1975,1979,September 16 1934,Seattle University,Los Angeles Lakers,0
+18,Butch Beard,1995,1996,May 4 1947,University of Louisville,Phoenix Suns,0
+19,Zelmo Beaty*,1976,1976,October 25 1939,Prairie View A&M University,Charlotte Hornets,0
+20,Clair Bee*,1953,1954,March 3 1896,Waynesburg College,Toronto Raptors,0
+21,Joe Belmont,1970,1971,July 12 1934,Duke University,Phoenix Suns,0
+22,Carl Bennett,1949,1949,December 7 1915,,Phoenix Suns,0
+23,Bill Berry,2002,2002,,Michigan State University,Golden State Warriors,0
+24,Bill Bertka,1994,1999,August 8 1927,Kent State University,Denver Nuggets,0
+25,Al Bianchi,1968,1976,March 26 1932,Bowling Green State University,Memphis Grizzlies,0
+26,Bernie Bickerstaff,1986,2013,February 11 1944,University of San Diego,Oklahoma City Thunder,0
+27,J.B. Bickerstaff,2016,2019,March 10 1979,University of Minnesota,Memphis Grizzlies,1
+28,Mark Binstein,1972,1972,,United States Military Academy,Brooklyn Nets,0
+29,Paul Birch,1947,1954,January 10 1910,Duquesne University,Oklahoma City Thunder,0
+30,Larry Bird*,1998,2000,December 7 1956,Indiana State University,Phoenix Suns,0
+31,Bill Blair,1983,1996,March 17 1942,Virginia Military Institute,Cleveland Cavaliers,0
+32,Bill Blakeley,1971,1971,June 13 1934,,Denver Nuggets,0
+33,David Blatt,2015,2016,May 22 1959,Princeton University,Philadelphia 76ers,0
+34,Harold Blitman,1970,1971,February 12 1930,West Chester University of Pennsylvania,New Orleans Pelicans,0
+35,James Borrego,2015,2019,,University of San Diego,Charlotte Hornets,1
+36,Vince Boryla,1956,1958,March 11 1927,University of Denver,Los Angeles Lakers,0
+37,Jeff Bower,2010,2010,April 26 1961,,Philadelphia 76ers,0
+38,Jim Boylan,2008,2013,,Marquette University,Minnesota Timberwolves,0
+39,Jim Boylen,2019,2019,,,Chicago Bulls,1
+40,Carl Braun*,1960,1961,September 25 1927,Colgate University,Utah Jazz,0
+41,Al Brightman,1968,1968,September 22 1923,University of Charleston,Portland Trail Blazers,0
+42,Allan Bristow,1992,1996,August 23 1951,Virginia Polytechnic Institute and State University,Phoenix Suns,0
+43,Scott Brooks,2009,2019,July 31 1965,University of California Irvine,Washington Wizards,1
+44,Jim Brovelli,1999,1999,April 15 1942,University of San Francisco,Atlanta Hawks,0
+45,Brett Brown,2014,2019,February 16 1961,Boston University,Philadelphia 76ers,1
+46,Dave Brown,1973,1973,,University of Wisconsin,Los Angeles Clippers,0
+47,Herb Brown,1976,1978,March 14 1936,University of Vermont,New York Knicks,0
+48,Hubie Brown*,1975,2005,September 25 1933,Niagara University,Memphis Grizzlies,0
+49,Larry Brown*,1973,2011,September 14 1940,University of North Carolina,Boston Celtics,0
+50,Mike Brown,2006,2014,March 5 1970,University of San Diego,Minnesota Timberwolves,0
+51,Tony Brown,2016,2016,July 29 1960,University of Arkansas,Charlotte Hornets,0
+52,Philip Brownstein,1949,1950,May 17 1906,University of Illinois at Urbana-Champaign,Milwaukee Bucks,0
+53,Quinn Buckner,1994,1994,August 20 1954,Indiana University,Toronto Raptors,0
+54,Bucky Buckwalter,1973,1975,November 22 1933,,Boston Celtics,0
+55,Mike Budenholzer,2014,2019,August 6 1969,Pomona College,Milwaukee Bucks,1
+56,Walt Budko,1951,1951,July 30 1925,Columbia University,Cleveland Cavaliers,0
+57,Donnie Butcher,1967,1969,February 8 1936,Pikeville College,Phoenix Suns,0
+58,Jeff Bzdelik,2003,2005,December 1 1952,University of Illinois at Chicago,Los Angeles Clippers,0
+59,John Calipari*,1997,1999,February 10 1959,Clarion University of Pennsylvania,Brooklyn Nets,0
+60,Mack Calvin,1976,1992,July 27 1947,University of Southern California,Golden State Warriors,0
+61,Kaleb Canales,2012,2012,,University of Texas at Arlington,Denver Nuggets,0
+62,P.J. Carlesimo,1995,2013,May 30 1949,Fordham University,Portland Trail Blazers,0
+63,Rick Carlisle,2002,2019,October 27 1959,University of Virginia,Dallas Mavericks,1
+64,Lou Carnesecca*,1971,1973,,,Houston Rockets,0
+65,M.L. Carr,1996,1997,January 9 1951,Guilford College,Memphis Grizzlies,0
+66,John Carroll,2004,2004,,,Portland Trail Blazers,0
+67,Butch Carter,1998,2000,June 11 1958,Indiana University,Brooklyn Nets,0
+68,Fred Carter,1993,1994,February 14 1945,Mount St. Mary's University,Sacramento Kings,0
+69,Bill Cartwright,2002,2004,July 30 1957,University of San Francisco,Oklahoma City Thunder,0
+70,Don Casey,1989,2000,,,Sacramento Kings,0
+71,Dwane Casey,2006,2019,April 17 1957,University of Kentucky,Detroit Pistons,1
+72,John Castellani,1960,1960,,,New York Knicks,0
+73,Vince Cazzetta,1968,1968,,,Milwaukee Bucks,0
+74,Al Cervi*,1950,1959,February 12 1917,,Oklahoma City Thunder,0
+75,Wilt Chamberlain*,1974,1974,August 21 1936,University of Kansas,Toronto Raptors,0
+76,Don Chaney,1985,2004,March 22 1946,University of Houston,Orlando Magic,0
+77,Maurice Cheeks*,2002,2014,September 8 1956,West Texas A&M University,Brooklyn Nets,0
+78,John Clark,1970,1970,,,Charlotte Hornets,0
+79,Jim Cleamons,1997,1998,September 13 1949,Ohio State University,Houston Rockets,0
+80,Roy Clifford,1947,1947,,,Atlanta Hawks,0
+81,Steve Clifford,2014,2019,September 17 1961,University of Maine at Farmington,Orlando Magic,1
+82,Neil Cohalan,1947,1947,,,Oklahoma City Thunder,0
+83,Jerry Colangelo*,1970,1973,November 20 1939,University of Illinois at Urbana-Champaign,Los Angeles Clippers,0
+84,Doug Collins,1987,2013,July 28 1951,Illinois State University,Charlotte Hornets,0
+85,Michael Cooper,2005,2005,April 15 1956,University of New Mexico,Minnesota Timberwolves,0
+86,Tyrone Corbin,2011,2015,December 31 1962,DePaul University,Golden State Warriors,0
+87,Larry Costello,1969,1979,July 2 1931,Niagara University,Los Angeles Lakers,0
+88,Bob Cousy*,1970,1974,August 9 1928,College of the Holy Cross,New Orleans Pelicans,0
+89,Dave Cowens*,1979,2002,October 25 1948,Florida State University,Golden State Warriors,0
+90,Billy Cunningham*,1978,1985,June 3 1943,University of North Carolina,San Antonio Spurs,0
+91,Michael Curry,2009,2009,August 22 1968,Georgia Southern University,Milwaukee Bucks,0
+92,Glenn Curtis,1947,1947,,,Toronto Raptors,0
+93,Mike D'Antoni,1999,2019,May 8 1951,Marshall University,Houston Rockets,1
+94,Chuck Daly*,1982,1999,July 20 1930,Bloomsburg University of Pennsylvania,Golden State Warriors,0
+95,Mel Daniels*,1989,1989,July 20 1944,University of New Mexico,Portland Trail Blazers,0
+96,Jimmy Darden,1950,1950,June 19 1922,University of Denver,Houston Rockets,0
+97,Johnny Davis,1997,2009,October 21 1955,University of Dayton,Brooklyn Nets,0
+98,Dave DeBusschere*,1965,1967,October 16 1940,University of Detroit Mercy,Phoenix Suns,0
+99,Dutch Dehnert*,1947,1947,April 5 1898,,Charlotte Hornets,0
+100,Vinny Del Negro,2009,2013,August 9 1966,North Carolina State University,Brooklyn Nets,0
+101,Don Delaney,1981,1982,,,Detroit Pistons,0
+102,Tony DiLeo,2009,2009,August 8 1955,La Salle University,New York Knicks,0
+103,Harry Dinnel,1968,1968,October 9 1940,Pepperdine University,San Antonio Spurs,0
+104,Terry Dischinger,1972,1972,November 21 1940,Purdue University,Chicago Bulls,0
+105,Billy Donovan,2016,2019,May 30 1965,Providence College,Oklahoma City Thunder,1
+106,Eddie Donovan,1962,1965,,,Miami Heat,0
+107,Larry Drew,2011,2019,April 2 1958,University of Missouri,Cleveland Cavaliers,1
+108,Ike Duffey,1950,1950,May 31 1906,,Philadelphia 76ers,0
+109,Mike Dunlap,2013,2013,May 27 1957,Loyola Marymount University,Charlotte Hornets,0
+110,Mike Dunleavy,1991,2010,March 21 1954,University of South Carolina,Houston Rockets,0
+111,Charles Eckman,1955,1958,,,Chicago Bulls,0
+112,Johnny Egan,1973,1976,January 31 1939,Providence College,New York Knicks,0
+113,Mike Evans,2002,2002,April 19 1955,Kansas State University,New York Knicks,0
+114,Mike Farmer,1967,1967,September 26 1936,University of San Francisco,Golden State Warriors,0
+115,Bob Feerick,1950,1963,January 2 1920,Santa Clara University,Boston Celtics,0
+116,Derek Fisher,2015,2016,August 9 1974,University of Arkansas at Little Rock,Memphis Grizzlies,0
+117,Bill Fitch*,1971,1998,May 19 1934,Coe College,Atlanta Hawks,0
+118,Dick Fitzgerald,1947,1947,November 18 1920,Fordham University,Cleveland Cavaliers,0
+119,Cotton Fitzsimmons,1971,1997,October 7 1931,Midwestern State University,Utah Jazz,0
+120,David Fizdale,2017,2019,June 16 1974,University of San Diego,New York Knicks,1
+121,Tim Floyd,1999,2004,,,Atlanta Hawks,0
+122,Chris Ford,1991,2004,January 11 1949,Villanova University,Minnesota Timberwolves,0
+123,Lawrence Frank,2004,2013,August 23 1970,,Philadelphia 76ers,0
+124,Mike Fratello,1981,2007,February 24 1947,Montclair State College,Atlanta Hawks,0
+125,Burl Friddle,1949,1949,May 27 1900,,New York Knicks,0
+126,Harry Gallatin*,1963,1966,April 26 1927,Truman State University,Memphis Grizzlies,0
+127,Alvin Gentry,1995,2019,November 5 1954,Appalachian State University,New Orleans Pelicans,1
+128,John Givens,1968,1968,May 12 1926,Western Kentucky University,Brooklyn Nets,0
+129,Edward Gottlieb*,1947,1955,September 15 1898,Temple University,Cleveland Cavaliers,0
+130,Ed Gregory,1988,1988,October 28 1931,Pepperdine University,Orlando Magic,0
+131,Alex Groza,1971,1975,October 7 1926,University of Kentucky,Sacramento Kings,0
+132,Richie Guerin*,1965,1972,May 29 1932,Iona College,San Antonio Spurs,0
+133,Matt Guokas,1986,1993,February 25 1944,Saint Joseph's University,Houston Rockets,0
+134,Cliff Hagan*,1968,1970,December 9 1931,University of Kentucky,Dallas Mavericks,0
+135,Bruce Hale,1949,1968,August 30 1918,Santa Clara University,Denver Nuggets,0
+136,Frank Hamblen,1992,2005,April 16 1947,Syracuse University,Utah Jazz,0
+137,Leonard Hamilton,2001,2001,,,Atlanta Hawks,0
+138,Alex Hannum*,1957,1974,July 19 1923,University of Southern California,Boston Celtics,0
+139,Bill Hanzlik,1998,1998,December 6 1957,University of Notre Dame,Los Angeles Lakers,0
+140,Jim Harding,1969,1969,,University of Iowa,Charlotte Hornets,0
+141,Del Harris,1980,1999,June 18 1937,Milligan College,Atlanta Hawks,0
+142,Les Harrison*,1949,1955,August 20 1904,,Los Angeles Clippers,0
+143,Dick Harter,1989,1990,October 14 1930,University of Pennsylvania,Chicago Bulls,0
+144,Lew Hayman,1947,1947,,Syracuse University,New York Knicks,0
+145,Gar Heard,1993,2000,May 3 1948,University of Oklahoma,Utah Jazz,0
+146,Tom Heinsohn*,1970,1978,August 26 1934,College of the Holy Cross,Minnesota Timberwolves,0
+147,Nat Hickey,1948,1948,January 30 1902,,New Orleans Pelicans,0
+148,Bob Hill,1987,2007,November 24 1948,Bowling Green State University,Atlanta Hawks,0
+149,Brian Hill,1994,2007,September 19 1947,Kennedy College,Chicago Bulls,0
+150,Fred Hoiberg,2016,2019,October 15 1972,Iowa State University,New Orleans Pelicans,0
+151,Lionel Hollins,2000,2016,October 19 1953,Arizona State University,Miami Heat,0
+152,Red Holzman*,1954,1982,August 10 1920,City College of New York,Dallas Mavericks,0
+153,Bob Hopkins,1978,1978,November 3 1934,Grambling State University,Oklahoma City Thunder,0
+154,Jeff Hornacek,2014,2018,May 3 1963,Iowa State University,San Antonio Spurs,0
+155,Kim Hughes,2010,2010,June 4 1952,University of Wisconsin,Chicago Bulls,0
+156,Rex Hughes,1992,1993,,,Los Angeles Lakers,0
+157,Melvin Hunt,2015,2015,December 15 1969,Baylor University,Los Angeles Lakers,0
+158,Lindsey Hunter,2013,2013,December 3 1970,Jackson State University,Houston Rockets,0
+159,Marc Iavaroni,2008,2009,September 15 1956,University of Virginia,Los Angeles Clippers,0
+160,Stu Inman,1972,1972,August 2 1926,San Jose State University,Detroit Pistons,0
+161,George Irvine,1985,2001,February 1 1948,University of Washington,Charlotte Hornets,0
+162,Dan Issel*,1993,2002,October 25 1948,University of Kentucky,Memphis Grizzlies,0
+163,Mark Jackson,2012,2014,April 1 1965,St. John's University,Los Angeles Clippers,0
+164,Phil Jackson*,1990,2011,September 17 1945,University of North Dakota,Utah Jazz,0
+165,Stu Jackson,1990,1997,,,Philadelphia 76ers,0
+166,Buddy Jeannette*,1948,1970,September 15 1917,Washington & Jefferson College,Cleveland Cavaliers,0
+167,Chris Jent,2005,2005,January 11 1970,Ohio State University,San Antonio Spurs,0
+168,Dave Joerger,2014,2019,February 21 1974,Minnesota State University Moorhead,Sacramento Kings,1
+169,Avery Johnson,2005,2013,March 25 1965,Southern University and A&M College,Toronto Raptors,0
+170,Dennis Johnson*,2003,2003,September 18 1954,Pepperdine University,New Orleans Pelicans,0
+171,Frank Johnson,2002,2004,November 23 1958,Wake Forest University,Portland Trail Blazers,0
+172,Magic Johnson*,1994,1994,August 14 1959,Michigan State University,New Orleans Pelicans,0
+173,Phil Johnson,1974,1987,,,Orlando Magic,0
+174,Neil Johnston*,1960,1961,February 4 1929,Ohio State University,Milwaukee Bucks,0
+175,K.C. Jones*,1973,1992,May 25 1932,University of San Francisco,San Antonio Spurs,0
+176,Wally Jones,1951,1951,,,Denver Nuggets,0
+177,Eddie Jordan,1997,2010,January 29 1955,Rutgers University,Minnesota Timberwolves,0
+178,Ed Jucker,1968,1969,,,Oklahoma City Thunder,0
+179,Alvin Julian*,1949,1950,April 5 1901,Bucknell University,Atlanta Hawks,0
+180,George Karl,1985,2016,May 12 1951,University of North Carolina,Cleveland Cavaliers,0
+181,Bob Kauffman,1978,1978,July 13 1946,Guilford College,Phoenix Suns,0
+182,Red Kerr,1967,1970,July 17 1932,University of Illinois at Urbana-Champaign,Toronto Raptors,0
+183,Steve Kerr,2015,2019,September 27 1965,University of Arizona,Golden State Warriors,1
+184,Jason Kidd*,2014,2018,March 23 1973,University of California,Miami Heat,0
+185,Bob Kloppenburg,1982,1992,,,New York Knicks,0
+186,Igor Kokoskov,2019,2019,,,Phoenix Suns,1
+187,Lon Kruger,2001,2003,,,New York Knicks,0
+188,Larry Krystkowiak,2007,2008,September 23 1964,University of Montana,Los Angeles Lakers,0
+189,John Kuester,2010,2011,February 6 1955,University of North Carolina,Toronto Raptors,0
+190,John Kundla*,1949,1959,July 3 1916,University of Minnesota,Philadelphia 76ers,0
+191,Bob Lanier*,1995,1995,September 10 1948,St. Bonaventure University,Orlando Magic,0
+192,Joe Lapchick*,1948,1956,April 12 1900,,Dallas Mavericks,0
+193,York Larese,1970,1970,July 18 1938,University of North Carolina,Indiana Pacers,0
+194,Frank Layden,1982,1989,January 5 1932,Niagara University,Sacramento Kings,0
+195,George Lee,1969,1970,November 23 1936,University of Michigan,Cleveland Cavaliers,0
+196,Slick Leonard*,1963,1980,July 17 1932,Indiana University,Golden State Warriors,0
+197,Andrew Levane,1953,1962,April 11 1920,St. John's University,Minnesota Timberwolves,0
+198,Grady Lewis,1949,1950,March 25 1917,University of Oklahoma,San Antonio Spurs,0
+199,Gene Littles,1986,1995,June 29 1943,High Point University,Milwaukee Bucks,0
+200,Earl Lloyd*,1972,1973,April 3 1928,West Virginia State University,Dallas Mavericks,0
+201,Tates Locke,1977,1977,,,Milwaukee Bucks,0
+202,Ken Loeffler*,1947,1949,April 14 1902,,Oklahoma City Thunder,0
+203,John Logan,1951,1951,January 1 1921,Indiana University,Charlotte Hornets,0
+204,Kevin Loughery,1973,1995,March 28 1940,St. John's University,New Orleans Pelicans,0
+205,Sidney Lowe,1993,2003,January 21 1960,North Carolina State University,Atlanta Hawks,0
+206,John Loyer,2014,2014,,,Portland Trail Blazers,0
+207,John Lucas,1993,2003,October 31 1953,University of Maryland,New York Knicks,0
+208,Tyronn Lue,2016,2019,May 3 1977,University of Nebraska,Charlotte Hornets,0
+209,Jim Lynam,1984,1997,,Saint Joseph's University,Denver Nuggets,0
+210,Ed Macauley*,1959,1960,March 22 1928,Saint Louis University,Los Angeles Clippers,0
+211,Bob MacKinnon,1975,1988,December 5 1927,,Denver Nuggets,0
+212,John MacLeod,1974,1991,October 3 1937,Bellarmine University,New Orleans Pelicans,0
+213,Brendan Malone,1996,2005,,,Utah Jazz,0
+214,Mike Malone,2014,2019,January 1 1971,Loyola College in Maryland,Denver Nuggets,1
+215,Tom Marshall,1959,1960,January 6 1931,Western Kentucky University,Detroit Pistons,0
+216,Slater Martin*,1957,1969,October 22 1925,University of Texas at Austin,Brooklyn Nets,0
+217,Babe McCarthy,1968,1974,,,Minnesota Timberwolves,0
+218,Johnny McCarthy,1972,1972,April 25 1934,Canisius College,Toronto Raptors,0
+219,Jack McCloskey,1973,1974,September 19 1925,University of Pennsylvania,Brooklyn Nets,0
+220,Dick McGuire*,1960,1968,January 25 1926,St. John's University,Phoenix Suns,0
+221,Frank McGuire*,1962,1962,,,Indiana Pacers,0
+222,Kevin McHale*,2005,2016,December 19 1957,University of Minnesota,Miami Heat,0
+223,Morris McHone,1984,1984,June 17 1943,,Toronto Raptors,0
+224,Bones McKinney,1951,1971,January 1 1919,University of North Carolina,Philadelphia 76ers,0
+225,Jack McKinney,1980,1985,July 13 1935,Saint Joseph's University,Boston Celtics,0
+226,John McLendon*,1970,1970,,,Milwaukee Bucks,0
+227,Jack McMahon,1963,1972,December 3 1928,St. John's University,Memphis Grizzlies,0
+228,Dave McMillan,1951,1951,December 24 1886,,New York Knicks,0
+229,Nate McMillan,2001,2019,August 3 1964,North Carolina State University,Indiana Pacers,1
+230,Murray Mendenhall,1950,1951,March 5 1898,,Los Angeles Clippers,0
+231,Tom Meschery,1972,1972,October 26 1938,Saint Mary's College of California,Charlotte Hornets,0
+232,George Mikan*,1958,1958,June 18 1924,DePaul University,Brooklyn Nets,0
+233,Vern Mikkelsen*,1969,1969,October 21 1928,Hamline University,Golden State Warriors,0
+234,Sam Mitchell,2005,2016,September 2 1963,Mercer University,Boston Celtics,0
+235,Doug Moe,1977,1993,September 21 1938,University of North Carolina,Minnesota Timberwolves,0
+236,Mike Montgomery,2005,2006,February 27 1947,California State University Long Beach,Charlotte Hornets,0
+237,Doxie Moore,1950,1952,February 13 1911,,Minnesota Timberwolves,0
+238,Robert Morris,1947,1947,,,Boston Celtics,0
+239,Dick Motta,1969,1997,September 3 1931,Utah State University,New York Knicks,0
+240,Joe Mullaney,1970,1977,November 17 1924,College of the Holy Cross,Phoenix Suns,0
+241,Bill Musselman,1976,1991,,,Denver Nuggets,0
+242,Eric Musselman,2003,2007,,,Brooklyn Nets,0
+243,Pete Myers,2004,2008,September 15 1963,University of Arkansas at Little Rock,New York Knicks,0
+244,Kenny Natt,2009,2009,October 5 1958,University of Louisiana at Monroe,Boston Celtics,0
+245,Don Nelson*,1977,2010,May 15 1940,University of Iowa,Cleveland Cavaliers,0
+246,Tom Nissalke,1972,1984,July 7 1932,,San Antonio Spurs,0
+247,Nick Nurse,2019,2019,,,Toronto Raptors,1
+248,Jim O'Brien,2001,2011,February 11 1952,Saint Joseph's University,Dallas Mavericks,0
+249,Kevin O'Neill,2004,2004,January 24 1957,McGill University,Orlando Magic,0
+250,Harold Olsen*,1947,1949,May 12 1895,University of Wisconsin,Utah Jazz,0
+251,Bob Pettit*,1962,1962,December 12 1932,Louisiana State University,Toronto Raptors,0
+252,Randy Pfund,1993,1994,,,Atlanta Hawks,0
+253,Andy Phillip*,1959,1959,March 7 1922,University of Illinois at Urbana-Champaign,Utah Jazz,0
+254,Lloyd Pierce,2019,2019,May 11 1976,Santa Clara University,Atlanta Hawks,1
+255,Rick Pitino*,1988,2001,September 18 1952,University of Massachusetts Amherst,San Antonio Spurs,0
+256,Jim Pollard*,1960,1970,July 9 1922,Stanford University,Milwaukee Bucks,0
+257,Gregg Popovich,1997,2019,January 28 1949,United States Air Force Academy,San Antonio Spurs,1
+258,Terry Porter,2004,2009,April 8 1963,University of Wisconsin-Stevens Point,Brooklyn Nets,0
+259,Roger Potter,1950,1950,,,Sacramento Kings,0
+260,Kevin Pritchard,2005,2005,July 17 1967,University of Kansas,New Orleans Pelicans,0
+261,Joe Prunty,2018,2018,February 12 1969,California Polytechnic State University San Luis Obispo,Indiana Pacers,0
+262,Kurt Rambis,1999,2016,February 25 1958,Santa Clara University,Cleveland Cavaliers,0
+263,Jack Ramsay*,1969,1989,February 21 1925,Saint Joseph's University,San Antonio Spurs,0
+264,Frank Ramsey*,1971,1971,July 13 1931,University of Kentucky,Oklahoma City Thunder,0
+265,Willis Reed*,1978,1989,June 25 1942,Grambling State University,Indiana Pacers,0
+266,Chick Reiser,1952,1953,December 17 1914,New York University,Philadelphia 76ers,0
+267,Jerry Reynolds,1987,1990,,,Atlanta Hawks,0
+268,Gene Rhodes,1968,1971,September 2 1927,Western Kentucky University,Oklahoma City Thunder,0
+269,Pat Riley*,1982,2008,March 20 1945,University of Kentucky,Brooklyn Nets,0
+270,Doc Rivers,2000,2019,October 13 1961,Marquette University,Los Angeles Clippers,1
+271,Scotty Robertson,1975,1983,February 1 1930,,Cleveland Cavaliers,0
+272,Red Rocha,1958,1960,September 18 1923,Oregon State University,Oklahoma City Thunder,0
+273,Jimmy Rodgers,1989,1993,,,Oklahoma City Thunder,0
+274,Robert Rolfe,1947,1947,October 17 1908,Dartmouth College,New Orleans Pelicans,0
+275,Ron Rothstein,1989,1993,,,Orlando Magic,0
+276,Roy Rubin,1973,1973,December 9 1925,,Golden State Warriors,0
+277,Bill Russell*,1967,1988,February 12 1934,University of San Francisco,Orlando Magic,0
+278,John Russell*,1947,1948,May 31 1902,,Houston Rockets,0
+279,Philip Sachs,1947,1947,,,Boston Celtics,0
+280,Ed Sadowski,1947,1947,July 11 1917,Seton Hall University,Detroit Pistons,0
+281,Tom Sanders*,1978,1979,November 8 1938,New York University,Phoenix Suns,0
+282,Flip Saunders,1996,2015,February 23 1955,University of Minnesota,Portland Trail Blazers,0
+283,Ryan Saunders,2019,2019,,,Minnesota Timberwolves,1
+284,Herm Schaefer,1952,1953,December 20 1918,Indiana University,Los Angeles Lakers,0
+285,Fred Schaus,1961,1967,June 30 1925,West Virginia University,New York Knicks,0
+286,Dolph Schayes*,1964,1972,May 19 1928,New York University,Golden State Warriors,0
+287,Mike Schuler,1987,1992,September 22 1940,Ohio University,Denver Nuggets,0
+288,Howie Schultz,1950,1950,July 3 1922,Hamline University,Oklahoma City Thunder,0
+289,Fred Scolari,1952,1952,March 1 1922,University of San Francisco,Chicago Bulls,0
+290,Byron Scott,2001,2016,March 28 1961,Arizona State University,Miami Heat,0
+291,Ray Scott,1973,1976,July 12 1938,University of Portland,Utah Jazz,0
+292,George Senesky,1956,1958,April 4 1922,Saint Joseph's University,Utah Jazz,0
+293,Paul Seymour,1957,1969,January 30 1928,University of Toledo,Phoenix Suns,0
+294,Bill Sharman*,1967,1976,May 25 1926,University of Southern California,Memphis Grizzlies,0
+295,Brian Shaw,2014,2015,March 22 1966,University of California Santa Barbara,Houston Rockets,0
+296,Beryl Shipley,1975,1975,August 10 1926,,Memphis Grizzlies,0
+297,Charley Shipp,1950,1950,December 3 1913,Catholic University of America,Memphis Grizzlies,0
+298,Gene Shue,1967,1989,December 18 1931,University of Maryland,Phoenix Suns,0
+299,Paul Silas,1981,2012,July 12 1943,Creighton University,Boston Celtics,0
+300,Scott Skiles,2000,2016,March 5 1964,Michigan State University,Memphis Grizzlies,0
+301,Jerry Sloan*,1980,2011,March 28 1942,University of Evansville,Los Angeles Lakers,0
+302,Keith Smart,2003,2013,September 21 1964,Indiana University,Memphis Grizzlies,0
+303,Jack Smiley,1950,1950,December 22 1922,University of Illinois at Urbana-Champaign,Minnesota Timberwolves,0
+304,Quin Snyder,2015,2019,October 30 1966,Duke University,Utah Jazz,1
+305,Albert Soar,1948,1948,August 17 1914,Providence College,New York Knicks,0
+306,Erik Spoelstra,2009,2019,November 1 1970,University of Portland,Miami Heat,1
+307,Garry St. Jean,1993,2000,,,Memphis Grizzlies,0
+308,Bob Staak,1997,1997,,,Orlando Magic,0
+309,Larry Staverman,1968,1978,October 11 1936,Thomas More College,Sacramento Kings,0
+310,Jerry Steele,1971,1971,,,Miami Heat,0
+311,Brad Stevens,2014,2019,October 22 1976,DePauw University,Boston Celtics,1
+312,Terry Stotts,2003,2019,November 25 1957,University of Oklahoma,Portland Trail Blazers,1
+313,Ken Suesens,1950,1950,October 23 1916,,Portland Trail Blazers,0
+314,Ed Tapscott,2009,2009,,,Minnesota Timberwolves,0
+315,Jerry Tarkanian*,1993,1993,August 8 1930,California State University Fresno,Houston Rockets,0
+316,Reggie Theus,2008,2009,October 13 1957,University of Nevada Las Vegas,Minnesota Timberwolves,0
+317,Tom Thibodeau,2011,2019,January 17 1958,Salem State University,Dallas Mavericks,0
+318,Isiah Thomas*,2001,2008,April 30 1961,Indiana University,Denver Nuggets,0
+319,Rod Thorn*,1976,1982,May 23 1941,West Virginia University,Golden State Warriors,0
+320,Jim Todd,2000,2000,,,Denver Nuggets,0
+321,Rolland Todd,1971,1972,,,Miami Heat,0
+322,Mike Todorovich,1951,1951,June 11 1923,University of Wyoming,Denver Nuggets,0
+323,Rudy Tomjanovich,1992,2005,November 24 1948,University of Michigan,Orlando Magic,0
+324,Gene Tormohlen,1976,1976,May 12 1937,University of Tennessee,Denver Nuggets,0
+325,Jay Triano,2009,2018,September 21 1958,,Cleveland Cavaliers,0
+326,Wes Unseld*,1988,1994,March 14 1946,University of Louisville,New York Knicks,0
+327,Dick Van Arsdale,1987,1987,February 22 1943,Indiana University,Philadelphia 76ers,0
+328,Butch van Breda Kolff,1968,1977,October 28 1922,New York University,Charlotte Hornets,0
+329,Jeff Van Gundy,1996,2007,January 19 1962,Nazareth College,Detroit Pistons,0
+330,Stan Van Gundy,2004,2018,September 21 1959,State University of New York at Brockport,Phoenix Suns,0
+331,Kiki Vandeweghe,2010,2010,August 1 1958,University of California Los Angeles,San Antonio Spurs,0
+332,Jacque Vaughn,2013,2015,February 11 1975,University of Kansas,Charlotte Hornets,0
+333,Dick Versace,1989,1991,,,Charlotte Hornets,0
+334,Sam Vincent,2008,2008,May 18 1963,Michigan State University,Minnesota Timberwolves,0
+335,Dick Vitale*,1979,1980,June 9 1939,Seton Hall University,San Antonio Spurs,0
+336,Frank Vogel,2011,2018,June 21 1973,University of Kentucky,San Antonio Spurs,0
+337,Darrell Walker,1997,2000,March 9 1961,University of Arkansas,Memphis Grizzlies,0
+338,Donnie Walsh,1979,1981,March 1 1941,University of North Carolina,Memphis Grizzlies,0
+339,Luke Walton,2017,2019,March 28 1980,University of Arizona,Los Angeles Lakers,1
+340,Bobby Wanzer*,1956,1959,June 4 1921,Seton Hall University,Indiana Pacers,0
+341,Earl Watson,2016,2018,June 12 1979,University of California Los Angeles,Cleveland Cavaliers,0
+342,Jim Weaver,1969,1969,,,Phoenix Suns,0
+343,Bob Weiss,1987,2006,May 7 1942,Pennsylvania State University,Utah Jazz,0
+344,Jerry West*,1977,1979,May 28 1938,West Virginia University,Dallas Mavericks,0
+345,Paul Westhead,1980,1992,February 21 1939,Saint Joseph's University,Houston Rockets,0
+346,Paul Westphal*,1993,2012,November 30 1950,University of Southern California,Detroit Pistons,0
+347,John Wetzel,1988,1988,October 22 1944,Virginia Polytechnic Institute and State University,Milwaukee Bucks,0
+348,Lenny Wilkens*,1970,2005,October 28 1937,Providence College,Memphis Grizzlies,0
+349,Herb Williams,2004,2005,February 16 1958,Ohio State University,Los Angeles Clippers,0
+350,Max Williams,1970,1971,,,New York Knicks,0
+351,Monty Williams,2011,2015,October 8 1971,University of Notre Dame,New Orleans Pelicans,0
+352,Tex Winter*,1972,1973,February 25 1922,,Houston Rockets,0
+353,Brian Winters,1996,2002,March 1 1952,University of South Carolina,New Orleans Pelicans,0
+354,Randy Wittman,2000,2016,October 28 1959,Indiana University,Denver Nuggets,0
+355,Dave Wohl,1986,1988,November 2 1949,University of Pennsylvania,Cleveland Cavaliers,0
+356,Charles Wolf,1961,1965,,,Utah Jazz,0
+357,Mike Woodson,2005,2014,March 24 1958,Indiana University,Denver Nuggets,0
+358,Draff Young,1974,1974,,,Minnesota Timberwolves,0
+359,Verl Young,1969,1969,,,Oklahoma City Thunder,0
+360,Max Zaslofsky,1968,1969,December 7 1925,St. John's University,Atlanta Hawks,0

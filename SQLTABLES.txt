@@ -1,0 +1,81 @@
+
+create table team (
+  teamName varchar(30) PRIMARY KEY
+);
+
+load data local infile '~/SQLProject/Teams.csv' into table team fields terminated by ',';
+
+
+
+create table player (
+  playerID varchar(30) PRIMARY KEY,
+  playerName varchar(30) NOT NULL,
+  teamName varchar(30),
+  age int,
+  gamesPlayed int,
+  gamesStarted int,
+  minutesPlayed decimal,
+  fieldGoals decimal,
+  fieldGoalAttempts decimal,
+  fieldGoalPercent decimal,
+  3pointers decimal,
+  3pointerAttempts decimal,
+  3pointerPercents decimal,
+  2pointers decimal,
+  2pointerAttempts decimal,
+  2pointerPercents decimal,
+  effectiveFGPercent decimal,
+  freeThrows decimal,
+  freeThrowAttempts decimal,
+  freeThrowPercent decimal,
+  offensiveRebounds decimal,
+  decimalRebounds decimal,
+  totalRebounds decimal,
+  assists decimal,
+  steals decimal,
+  blocks decimal,
+  turnovers decimal,
+  personalFouls decimal,
+  totalPoints decimal,
+  CONSTRAINT FOREIGN KEY player(teamName) REFERENCES team(teamName)
+);
+load data local infile '~/SQLProject/players.txt' into table player fields terminated by ',';
+
+create table coach (
+  coachID int PRIMARY KEY,
+  coachName varchar(30) NOT NULL,
+  startYear int NOT NULL,
+  endYear int,
+  birthdate varchar(15),
+  college varchar (30),
+  teamName varchar(30),
+  isActive int NOT NULL,
+  CONSTRAINT FOREIGN KEY coach(teamName) REFERENCES team(teamName)
+);
+load data local infile '~/SQLProject/coaches.txt' into table coach fields terminated by ',';
+
+
+create table playoffGame (
+  seasonYear int NOT NULL,
+  series varchar(30),
+  dates varchar(30),
+  winner varchar(30),
+  loser varchar(30),
+  seriesLength int NOT NULL,
+  PRIMARY KEY (dates, winner, loser),
+  CONSTRAINT FOREIGN KEY playoffGameWinner(winner) REFERENCES team(teamName),
+  CONSTRAINT FOREIGN KEY playoffGameLoser(loser) REFERENCES team(teamName)
+);
+load data local infile '~/SQLProject/playoffGames.txt' into table playoffGame fields terminated by ',';
+
+create table draftPick (
+  draftPickID int PRIMARY KEY,
+  year int NOT NULL,
+  teamName varchar(30),
+  round int NOT NULL,
+  pick int NOT NULL,
+  playerName varchar (30) NOT NULL,
+  college varchar(30),
+  CONSTRAINT FOREIGN KEY draftPick(teamName) REFERENCES team(teamName)
+);
+load data local infile '~/SQLProject/draftPicks.txt' into table draftPick fields terminated by ',';

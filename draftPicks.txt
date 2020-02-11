@@ -1,0 +1,1729 @@
+draftPickID,Year,Team ID,Rd,Pk,Player,College
+1,2018,Golden State Warriors,1,28,Jacob Evans,University of Cincinnati
+2,2016,Golden State Warriors,1,30,Damian Jones,Vanderbilt University
+3,2015,Golden State Warriors,1,30,Kevon Looney,University of California Los Angeles
+4,2012,Golden State Warriors,1,7,Harrison Barnes,University of North Carolina
+5,2012,Golden State Warriors,1,30,Festus Ezeli,Vanderbilt University
+6,2012,Golden State Warriors,2,35,Draymond Green,Michigan State University
+7,2012,Golden State Warriors,2,52,Ognjen Kuzmic,
+8,2011,Golden State Warriors,1,11,Klay Thompson,Washington State University
+9,2011,Golden State Warriors,2,44,Charles Jenkins,Hofstra University
+10,2010,Golden State Warriors,1,6,Ekpe Udoh,Baylor University
+11,2009,Golden State Warriors,1,7,Stephen Curry,Davidson College
+12,2008,Golden State Warriors,1,14,Anthony Randolph,Louisiana State University
+13,2008,Golden State Warriors,2,49,Richard Hendrix,
+14,2007,Golden State Warriors,1,18,Marco Belinelli,
+15,2007,Golden State Warriors,2,36,Jermareo Davidson,University of Alabama
+16,2007,Golden State Warriors,2,46,Stephane Lasme,University of Massachusetts Amherst
+17,2006,Golden State Warriors,1,9,Patrick O'Bryant,Bradley University
+18,2006,Golden State Warriors,2,38,Kosta Perovic,
+19,2005,Golden State Warriors,1,9,Ike Diogu,Arizona State University
+20,2005,Golden State Warriors,2,40,Monta Ellis,
+21,2005,Golden State Warriors,2,42,Chris Taft,University of Pittsburgh
+22,2004,Golden State Warriors,1,11,Andris Biedrins,
+23,2003,Golden State Warriors,1,11,Mickael Pietrus,
+24,2003,Golden State Warriors,2,40,Derrick Zimmerman,Mississippi State University
+25,2002,Golden State Warriors,1,3,Mike Dunleavy,Duke University
+26,2002,Golden State Warriors,2,30,Steve Logan,
+27,2001,Golden State Warriors,1,5,Jason Richardson,Michigan State University
+28,2001,Golden State Warriors,1,14,Troy Murphy,University of Notre Dame
+29,2001,Golden State Warriors,2,31,Gilbert Arenas,University of Arizona
+30,2000,Golden State Warriors,2,55,Chris Porter,Auburn University
+31,1999,Golden State Warriors,1,21,Jeff Foster,Texas State University
+32,1999,Golden State Warriors,2,56,Tim Young,Stanford University
+33,1998,Golden State Warriors,1,5,Vince Carter,University of North Carolina
+34,1997,Golden State Warriors,1,8,Adonal Foyle,Colgate University
+35,1997,Golden State Warriors,2,37,Marc Jackson,Temple University
+36,1996,Golden State Warriors,1,11,Todd Fuller,North Carolina State University
+37,1996,Golden State Warriors,2,40,Marcus Mann,
+38,1995,Golden State Warriors,1,1,Joe Smith,University of Maryland
+39,1995,Golden State Warriors,2,34,Andrew DeClercq,University of Florida
+40,1995,Golden State Warriors,2,40,Dwayne Whitfield,Jackson State University
+41,1995,Golden State Warriors,2,50,Martin Lewis,Seward County Community College
+42,1995,Golden State Warriors,2,55,Michael McDonald,University of New Orleans
+43,1994,Golden State Warriors,1,16,Clifford Rozier,University of Louisville
+44,1994,Golden State Warriors,2,39,Anthony Miller,Michigan State University
+45,1994,Golden State Warriors,2,45,Dwayne Morton,University of Louisville
+46,1993,Golden State Warriors,1,3,Anfernee Hardaway,University of Memphis
+47,1993,Golden State Warriors,2,34,Darnell Mee,Western Kentucky University
+48,1992,Golden State Warriors,1,24,Latrell Sprewell,University of Alabama
+49,1992,Golden State Warriors,2,43,Sasha Danilovic,
+50,1992,Golden State Warriors,2,50,Matt Fish,University of North Carolina at Wilmington
+51,1991,Golden State Warriors,1,16,Chris Gatling,Old Dominion University
+52,1991,Golden State Warriors,1,17,Victor Alexander,Iowa State University
+53,1991,Golden State Warriors,1,25,Shaun Vandiver,
+54,1991,Golden State Warriors,2,43,Lamont Strothers,Christopher Newport University
+55,1990,Golden State Warriors,1,11,Tyrone Hill,Xavier University
+56,1990,Golden State Warriors,2,28,Les Jepsen,University of Iowa
+57,1990,Golden State Warriors,2,34,Kevin Pritchard,University of Kansas
+58,1989,Golden State Warriors,1,14,Tim Hardaway,University of Texas at El Paso
+59,1988,Golden State Warriors,1,5,Mitch Richmond,Kansas State University
+60,1988,Golden State Warriors,2,41,Keith Smart,Indiana University
+61,1987,Golden State Warriors,1,14,Tellis Frank,Western Kentucky University
+62,1987,Golden State Warriors,3,58,Darryl Johnson,Michigan State University
+63,1987,Golden State Warriors,4,83,Benny Bolton,
+64,1987,Golden State Warriors,5,105,Terry Williams,
+65,1987,Golden State Warriors,6,127,Sarunas Marciulionis,
+66,1987,Golden State Warriors,7,152,Ronnie Leggette,
+67,1986,Golden State Warriors,1,3,Chris Washburn,North Carolina State University
+68,1986,Golden State Warriors,3,51,Mike Williams,Bradley University
+69,1986,Golden State Warriors,3,59,Wendell Alexis,
+70,1986,Golden State Warriors,4,75,Dan Bingenheimer,
+71,1986,Golden State Warriors,5,97,Clinton Smith,Cleveland State University
+72,1986,Golden State Warriors,6,121,Bobby Lee Hurt,
+73,1986,Golden State Warriors,7,143,Steve Kenilvort,
+74,1985,Golden State Warriors,1,7,Chris Mullin,St. John's University
+75,1985,Golden State Warriors,2,42,Bobby Lee Hurt,
+76,1985,Golden State Warriors,3,49,Brad Wright,University of California Los Angeles
+77,1985,Golden State Warriors,4,71,Luster Goodwin,
+78,1985,Golden State Warriors,5,95,Greg Cavener,
+79,1985,Golden State Warriors,6,117,Gerald Crosby,
+80,1985,Golden State Warriors,7,141,Eric Boyd,
+81,1984,Golden State Warriors,2,30,Steve Burtt,Iona College
+82,1984,Golden State Warriors,2,31,Jay Murphy,Boston College
+83,1984,Golden State Warriors,2,35,Othell Wilson,University of Virginia
+84,1984,Golden State Warriors,2,45,Gary Plummer,Boston University
+85,1984,Golden State Warriors,3,55,Lewis Jackson,
+86,1984,Golden State Warriors,5,101,Steve Bartek,
+87,1984,Golden State Warriors,5,110,Scott McCollum,
+88,1984,Golden State Warriors,6,123,Tony Martin,
+89,1984,Golden State Warriors,7,147,Cliff Higgins,
+90,1984,Golden State Warriors,8,169,Paul Brozovich,
+91,1984,Golden State Warriors,9,192,Mitch Arnold,
+92,1984,Golden State Warriors,10,213,Tim Bell,
+93,1983,Golden State Warriors,1,6,Russell Cross,Purdue University
+94,1983,Golden State Warriors,2,43,Pace Mannion,University of Utah
+95,1983,Golden State Warriors,3,53,Mike Holton,University of California Los Angeles
+96,1983,Golden State Warriors,4,77,Peter Thibeaux,Saint Mary's College of California
+97,1983,Golden State Warriors,5,99,Greg Hines,
+98,1983,Golden State Warriors,6,123,Tom Heywood,
+99,1983,Golden State Warriors,7,145,Peter Williams,
+100,1983,Golden State Warriors,8,169,Doug Harris,
+101,1983,Golden State Warriors,9,190,Greg Goorjiam,
+102,1983,Golden State Warriors,10,212,Michael Zeno,
+103,1982,Golden State Warriors,1,14,Lester Conner,Oregon State University
+104,1982,Golden State Warriors,2,35,Derek Smith,University of Louisville
+105,1982,Golden State Warriors,2,38,Wayne Sappleton,Loyola University of Chicago
+106,1982,Golden State Warriors,3,60,Chris Engler,University of Wyoming
+107,1982,Golden State Warriors,4,83,Ken Stancell,
+108,1982,Golden State Warriors,5,106,Albert Irving,
+109,1982,Golden State Warriors,6,129,David Vann,
+110,1982,Golden State Warriors,7,152,Matt Waldron,
+111,1982,Golden State Warriors,8,175,Mark King,
+112,1982,Golden State Warriors,9,198,Nick Morken,
+113,1982,Golden State Warriors,10,219,Randy Whieldon,
+114,1981,Golden State Warriors,2,33,Sam Williams,Arizona State University
+115,1981,Golden State Warriors,3,56,Carlton Neverson,
+116,1981,Golden State Warriors,4,76,Lewis Lloyd,Drake University
+117,1981,Golden State Warriors,4,80,Terry Adolph,
+118,1981,Golden State Warriors,5,102,Hank McDowell,University of Memphis
+119,1981,Golden State Warriors,6,126,Carter Scott,
+120,1981,Golden State Warriors,7,148,Robby Dosty,
+121,1981,Golden State Warriors,8,171,Yasutaka Okayama,
+122,1981,Golden State Warriors,9,192,Doug Murrey,
+123,1981,Golden State Warriors,10,213,Barry Brooks,
+124,1980,Golden State Warriors,1,1,Joe Barry Carroll,Purdue University
+125,1980,Golden State Warriors,1,13,Rickey Brown,Mississippi State University
+126,1980,Golden State Warriors,2,24,Larry Smith,Alcorn State University
+127,1980,Golden State Warriors,2,25,Jeff Ruland,Iona College
+128,1980,Golden State Warriors,3,49,John Virgil,
+129,1980,Golden State Warriors,4,71,Robert Scott,
+130,1980,Golden State Warriors,5,95,Don Carlino,
+131,1980,Golden State Warriors,6,117,Neil Bresnahan,
+132,1980,Golden State Warriors,7,141,Lorenzo Romar,University of Washington
+133,1980,Golden State Warriors,8,162,Kurt Kanaskie,
+134,1980,Golden State Warriors,9,182,Billy Reid,University of San Francisco
+135,1980,Golden State Warriors,10,200,Tim Higgins,
+136,1979,Golden State Warriors,2,28,Danny Salisbury,
+137,1979,Golden State Warriors,3,54,Cheese Johnson,Wichita State University
+138,1979,Golden State Warriors,4,75,Ron Ripley,
+139,1979,Golden State Warriors,4,82,Jerry Sichting,Purdue University
+140,1979,Golden State Warriors,5,96,George Lett,
+141,1979,Golden State Warriors,6,118,Jim Mitchem,
+142,1979,Golden State Warriors,7,137,Ren Watson,
+143,1979,Golden State Warriors,8,155,Mario Butler,
+144,1979,Golden State Warriors,9,175,Gene Ransom,
+145,1979,Golden State Warriors,10,192,Kevin Heenan,
+146,1978,Golden State Warriors,1,5,Purvis Short,Jackson State University
+147,1978,Golden State Warriors,1,22,Raymond Townsend,University of California Los Angeles
+148,1978,Golden State Warriors,2,40,Wayne Cooper,University of New Orleans
+149,1978,Golden State Warriors,3,56,Steve Neff,
+150,1978,Golden State Warriors,4,77,Derrick Jackson,
+151,1978,Golden State Warriors,5,101,Bubba Wilson,Western Carolina University
+152,1978,Golden State Warriors,6,122,Buzz Hartnett,
+153,1978,Golden State Warriors,7,142,Rick Bernard,
+154,1978,Golden State Warriors,8,163,Tony Searcy,
+155,1978,Golden State Warriors,9,179,Bobby Humbles,
+156,1978,Golden State Warriors,10,193,Mike Muff,
+157,1977,Golden State Warriors,1,16,Rickey Green,University of Michigan
+158,1977,Golden State Warriors,1,18,Wesley Cox,University of Louisville
+159,1977,Golden State Warriors,2,38,Ricky Love,
+160,1977,Golden State Warriors,3,60,Marlon Redmond,University of San Francisco
+161,1977,Golden State Warriors,4,82,Roy Smith,
+162,1977,Golden State Warriors,4,87,Leartha Scott,
+163,1977,Golden State Warriors,5,104,Ray Epps,Norfolk State University
+164,1977,Golden State Warriors,6,126,Jack Phelan,
+165,1977,Golden State Warriors,7,146,Jerry Thurston,
+166,1977,Golden State Warriors,8,165,Ricky Marsh,Manhattan College
+167,1976,Golden State Warriors,1,8,Robert Parish,Centenary College of Louisiana
+168,1976,Golden State Warriors,1,17,Sonny Parker,Texas A&M University
+169,1976,Golden State Warriors,2,34,Marshall Rogers,University of Texas-Pan American
+170,1976,Golden State Warriors,4,68,Jeff Fosnes,
+171,1976,Golden State Warriors,5,86,Carl Bird,
+172,1976,Golden State Warriors,6,91,Duane Barnett,
+173,1976,Golden State Warriors,6,104,Gene Cunningham,
+174,1976,Golden State Warriors,7,122,Jesse Campbell,
+175,1976,Golden State Warriors,8,140,Stan Boskovich,
+176,1976,Golden State Warriors,9,157,Howard Smith,
+177,1976,Golden State Warriors,10,173,Ken Smith,
+178,1975,Golden State Warriors,1,14,Joe Bryant,La Salle University
+179,1975,Golden State Warriors,2,20,Gus Williams,University of Southern California
+180,1975,Golden State Warriors,3,40,Otis Johnson,
+181,1975,Golden State Warriors,3,51,Robert Hawkins,Illinois State University
+182,1975,Golden State Warriors,4,69,Billy Taylor,
+183,1975,Golden State Warriors,5,87,Larry Pounds,
+184,1975,Golden State Warriors,6,105,Tony Styles,
+185,1975,Golden State Warriors,7,123,Stan Boyer,
+186,1975,Golden State Warriors,8,141,Mike Rozenski,
+187,1975,Golden State Warriors,9,157,Scott Trobbe,
+188,1975,Golden State Warriors,10,171,Maurice Harper,
+189,1974,Golden State Warriors,1,11,Jamaal Wilkes,University of California Los Angeles
+190,1974,Golden State Warriors,2,29,Phil Smith,University of San Francisco
+191,1974,Golden State Warriors,3,47,Frank Kendrick,Purdue University
+192,1974,Golden State Warriors,4,65,Willie Biles,
+193,1974,Golden State Warriors,5,83,Steve Erickson,
+194,2018,Denver Nuggets,1,14,Michael Porter,University of Missouri
+195,2018,Denver Nuggets,2,43,Justin Jackson,University of Maryland
+196,2018,Denver Nuggets,2,58,Thomas Welsh,University of California Los Angeles
+197,2017,Denver Nuggets,1,13,Donovan Mitchell,University of Louisville
+198,2017,Denver Nuggets,2,49,Vlatko Cancar,
+199,2017,Denver Nuggets,2,51,Monte Morris,Iowa State University
+200,2016,Denver Nuggets,1,7,Jamal Murray,University of Kentucky
+201,2016,Denver Nuggets,1,15,Juan Hernangomez,
+202,2016,Denver Nuggets,1,19,Malik Beasley,Florida State University
+203,2016,Denver Nuggets,2,53,Petr Cornelie,
+204,2016,Denver Nuggets,2,56,Daniel Hamilton,University of Connecticut
+205,2015,Denver Nuggets,1,7,Emmanuel Mudiay,
+206,2015,Denver Nuggets,2,57,Nikola Radicevic,
+207,2014,Denver Nuggets,1,11,Doug McDermott,Creighton University
+208,2014,Denver Nuggets,2,41,Nikola Jokic,
+209,2014,Denver Nuggets,2,56,Roy Devyn Marble,University of Iowa
+210,2013,Denver Nuggets,1,27,Rudy Gobert,
+211,2012,Denver Nuggets,1,20,Evan Fournier,
+212,2012,Denver Nuggets,2,38,Quincy Miller,Baylor University
+213,2012,Denver Nuggets,2,50,Izzet Turkyilmaz,
+214,2011,Denver Nuggets,1,22,Kenneth Faried,Morehead State University
+215,2009,Denver Nuggets,2,34,Sergio Llull,
+216,2006,Denver Nuggets,2,49,Leon Powe,University of California
+217,2005,Denver Nuggets,1,20,Julius Hodge,North Carolina State University
+218,2005,Denver Nuggets,1,22,Jarrett Jack,Georgia Institute of Technology
+219,2005,Denver Nuggets,2,52,Axel Hervelle,
+220,2004,Denver Nuggets,1,20,Jameer Nelson,Saint Joseph's University
+221,2003,Denver Nuggets,1,3,Carmelo Anthony,Syracuse University
+222,2003,Denver Nuggets,2,46,Sani Becirovic,
+223,2002,Denver Nuggets,1,5,Nikoloz Tskitishvili,
+224,2002,Denver Nuggets,1,25,Frank Williams,University of Illinois at Urbana-Champaign
+225,2002,Denver Nuggets,2,33,Vincent Yarbrough,University of Tennessee
+226,2001,Denver Nuggets,2,47,Ousmane Cisse,
+227,2000,Denver Nuggets,1,26,Mamadou N'Diaye,Auburn University
+228,2000,Denver Nuggets,2,53,Dan McClintock,Northern Arizona University
+229,1999,Denver Nuggets,1,18,James Posey,Xavier University
+230,1999,Denver Nuggets,2,33,Chris Herren,California State University Fresno
+231,1999,Denver Nuggets,2,41,Francisco Elson,University of California
+232,1998,Denver Nuggets,1,3,Raef LaFrentz,University of Kansas
+233,1998,Denver Nuggets,1,23,Tyronn Lue,University of Nebraska
+234,1998,Denver Nuggets,2,54,Tremaine Fowlkes,California State University Fresno
+235,1998,Denver Nuggets,2,55,Ryan Bowen,University of Iowa
+236,1997,Denver Nuggets,1,5,Tony Battie,Texas Tech University
+237,1997,Denver Nuggets,2,32,James Cotton,California State University Long Beach
+238,1997,Denver Nuggets,2,41,Jason Lawson,Villanova University
+239,1996,Denver Nuggets,1,23,Efthimi Rentzias,
+240,1996,Denver Nuggets,2,37,Jeff McInnis,University of North Carolina
+241,1995,Denver Nuggets,1,15,Brent Barry,Oregon State University
+242,1995,Denver Nuggets,2,44,Anthony Pelle,
+243,1994,Denver Nuggets,1,13,Jalen Rose,University of Michigan
+244,1993,Denver Nuggets,1,9,Rodney Rogers,Wake Forest University
+245,1993,Denver Nuggets,2,43,Josh Grant,University of Utah
+246,1992,Denver Nuggets,1,5,LaPhonso Ellis,University of Notre Dame
+247,1992,Denver Nuggets,1,13,Bryant Stith,University of Virginia
+248,1992,Denver Nuggets,2,46,Robert Werdann,St. John's University
+249,1991,Denver Nuggets,1,4,Dikembe Mutombo,Georgetown University
+250,1991,Denver Nuggets,1,8,Mark Macon,Temple University
+251,1990,Denver Nuggets,1,3,Mahmoud Abdul-Rauf,Louisiana State University
+252,1990,Denver Nuggets,2,42,Marcus Liberty,University of Illinois at Urbana-Champaign
+253,1989,Denver Nuggets,1,15,Todd Lichti,Stanford University
+254,1989,Denver Nuggets,2,42,Michael Cutright,
+255,1989,Denver Nuggets,2,47,Reggie Turner,
+256,1988,Denver Nuggets,1,23,Jerome Lane,University of Pittsburgh
+257,1988,Denver Nuggets,2,43,Todd Mitchell,Purdue University
+258,1988,Denver Nuggets,2,47,Vernon Maxwell,University of Florida
+259,1988,Denver Nuggets,3,66,Dwight Boyd,
+260,1987,Denver Nuggets,2,31,Andre Moore,Loyola University of Chicago
+261,1987,Denver Nuggets,3,54,Tom Schafer,
+262,1987,Denver Nuggets,4,77,David Boone,
+263,1987,Denver Nuggets,5,100,Ron Grandison,University of New Orleans
+264,1987,Denver Nuggets,6,123,Kelvin Scarborough,
+265,1987,Denver Nuggets,7,146,Rowan Gomes,
+266,1987,Denver Nuggets,7,156,Curtis Hunter,
+267,1986,Denver Nuggets,1,16,Maurice Martin,Saint Joseph's University
+268,1986,Denver Nuggets,1,18,Mark Alarie,Duke University
+269,1986,Denver Nuggets,2,41,Otis Smith,Jacksonville University
+270,1986,Denver Nuggets,3,64,Don Redden,
+271,1986,Denver Nuggets,4,87,Anthony Watson,
+272,1986,Denver Nuggets,5,110,Jon Collins,
+273,1986,Denver Nuggets,6,133,Anthony Frederick,Pepperdine University
+274,1986,Denver Nuggets,7,156,Mike Marshall,
+275,1985,Denver Nuggets,1,15,Blair Rasmussen,University of Oregon
+276,1985,Denver Nuggets,2,43,Barry Stevens,Iowa State University
+277,1985,Denver Nuggets,4,89,Pete Williams,University of Arizona
+278,1985,Denver Nuggets,5,112,Kenny Brown,
+279,1985,Denver Nuggets,6,135,Joe Carrabino,
+280,1985,Denver Nuggets,7,158,Eddie Smith,
+281,1984,Denver Nuggets,2,42,Willie White,University of Tennessee at Chattanooga
+282,1984,Denver Nuggets,4,79,Karl Tilleman,
+283,1984,Denver Nuggets,5,103,Prince Bridges,
+284,1984,Denver Nuggets,6,125,Willie Burton,
+285,1984,Denver Nuggets,7,149,Mark Simpson,
+286,1984,Denver Nuggets,8,171,Bill Wendlandt,
+287,1984,Denver Nuggets,9,194,Cecil Exum,
+288,1984,Denver Nuggets,10,215,Dexter Bailey,
+289,1983,Denver Nuggets,1,15,Howard Carter,Louisiana State University
+290,1983,Denver Nuggets,2,37,David Russell,
+291,1983,Denver Nuggets,3,61,David Little,
+292,1983,Denver Nuggets,4,83,York Gross,
+293,1983,Denver Nuggets,5,107,James Braddock,
+294,1983,Denver Nuggets,6,129,Glenn Green,
+295,1983,Denver Nuggets,7,153,Maurice McDaniel,
+296,1983,Denver Nuggets,8,175,Cliff Tribus,
+297,1983,Denver Nuggets,9,198,Bobby Van Noy,
+298,1983,Denver Nuggets,10,218,Cleveland McCrae,
+299,1982,Denver Nuggets,1,19,Rob Williams,University of Houston
+300,1982,Denver Nuggets,3,62,Roylin Bond,
+301,1982,Denver Nuggets,4,84,Alford Turner,
+302,1982,Denver Nuggets,5,109,Bill Duffy,
+303,1982,Denver Nuggets,6,131,Chris Brust,
+304,1982,Denver Nuggets,7,153,Jeb Barlow,
+305,1982,Denver Nuggets,8,178,Donny Speer,
+306,1982,Denver Nuggets,9,200,Dean Sears,
+307,1982,Denver Nuggets,10,220,Mike Phillips,
+308,1981,Denver Nuggets,2,34,Ken Green,University of Texas-Pan American
+309,1981,Denver Nuggets,5,101,Willie Sims,
+310,1981,Denver Nuggets,6,124,Alonzo Weatherley,
+311,1981,Denver Nuggets,7,147,Greg Manning,
+312,1981,Denver Nuggets,8,169,Curtis Redding,
+313,1981,Denver Nuggets,9,191,Andrew Burton,
+314,1981,Denver Nuggets,10,211,Derrick Rowland,State University of New York at Potsdam
+315,1980,Denver Nuggets,1,5,James Ray,Jacksonville University
+316,1980,Denver Nuggets,1,23,Carl Nicks,Indiana State University
+317,1980,Denver Nuggets,2,41,Jawann Oldham,Seattle University
+318,1980,Denver Nuggets,3,47,Kurt Nimphius,Arizona State University
+319,1980,Denver Nuggets,3,48,Eddie Lee,
+320,1980,Denver Nuggets,3,51,Ronnie Valentine,Old Dominion University
+321,1980,Denver Nuggets,4,73,Sammie Ellis,
+322,1980,Denver Nuggets,5,97,James Patrick,
+323,1980,Denver Nuggets,6,119,Ernie Hill,
+324,1980,Denver Nuggets,7,143,Tommy Springer,
+325,1980,Denver Nuggets,9,184,Jim Graziano,
+326,1980,Denver Nuggets,10,202,Earl Sango,
+327,1979,Denver Nuggets,2,30,Gary Garland,DePaul University
+328,1979,Denver Nuggets,5,102,Larry Williams,
+329,1979,Denver Nuggets,6,122,Odell Ball,
+330,1979,Denver Nuggets,7,144,John Johnson,
+331,1979,Denver Nuggets,8,162,Matt Teahan,
+332,1979,Denver Nuggets,9,179,Emmett Lewis,
+333,1978,Denver Nuggets,1,17,Rod Griffin,
+334,1978,Denver Nuggets,1,21,Mike Evans,Kansas State University
+335,1978,Denver Nuggets,3,46,Hollis Copeland,Rutgers University
+336,1978,Denver Nuggets,5,106,Michael Edwards,
+337,1978,Denver Nuggets,6,127,Robert Heard,
+338,1978,Denver Nuggets,7,148,Jack Gilloon,
+339,1978,Denver Nuggets,8,166,Larry Vaculik,
+340,1978,Denver Nuggets,9,183,Tom Schneeburger,
+341,1978,Denver Nuggets,10,198,Phil Taylor,
+342,1977,Denver Nuggets,1,9,Tom LaGarde,University of North Carolina
+343,1977,Denver Nuggets,1,21,Anthony Roberts,Oral Roberts University
+344,1977,Denver Nuggets,3,65,Robert Smith,University of Nevada Las Vegas
+345,1977,Denver Nuggets,5,109,John Billups,
+346,1977,Denver Nuggets,6,130,Jim Town,
+347,1977,Denver Nuggets,7,150,Willie High,
+348,1977,Denver Nuggets,8,169,Len Saunders,
+349,2018,Portland TrailBlazers,1,24,Anfernee Simons,
+350,2017,Portland TrailBlazers,1,15,Justin Jackson,University of North Carolina
+351,2017,Portland TrailBlazers,1,20,Harry Giles,Duke University
+352,2017,Portland TrailBlazers,1,26,Caleb Swanigan,Purdue University
+353,2015,Portland TrailBlazers,1,23,Rondae Hollis-Jefferson,University of Arizona
+354,2013,Portland TrailBlazers,1,10,CJ McCollum,Lehigh University
+355,2013,Portland TrailBlazers,2,39,Jeff Withey,University of Kansas
+356,2013,Portland TrailBlazers,2,40,Grant Jerrett,University of Arizona
+357,2013,Portland TrailBlazers,2,45,Marko Todorovic,
+358,2012,Portland TrailBlazers,1,6,Damian Lillard,Weber State University
+359,2012,Portland TrailBlazers,1,11,Meyers Leonard,University of Illinois at Urbana-Champaign
+360,2012,Portland TrailBlazers,2,40,Will Barton,University of Memphis
+361,2012,Portland TrailBlazers,2,41,Tyshawn Taylor,University of Kansas
+362,2011,Portland TrailBlazers,1,21,Nolan Smith,Duke University
+363,2011,Portland TrailBlazers,2,51,Jon Diebler,Ohio State University
+364,2010,Portland TrailBlazers,1,22,Elliot Williams,University of Memphis
+365,2010,Portland TrailBlazers,2,34,Armon Johnson,University of Nevada Reno
+366,2009,Portland TrailBlazers,1,22,Victor Claver,
+367,2009,Portland TrailBlazers,2,33,Dante Cunningham,Villanova University
+368,2009,Portland TrailBlazers,2,38,Jon Brockman,University of Washington
+369,2009,Portland TrailBlazers,2,55,Patrick Mills,Saint Mary's College of California
+370,2008,Portland TrailBlazers,1,13,Brandon Rush,University of Kansas
+371,2008,Portland TrailBlazers,2,33,Joey Dorsey,University of Memphis
+372,2008,Portland TrailBlazers,2,36,Omer Asik,
+373,2008,Portland TrailBlazers,2,55,Mike Taylor,Iowa State University
+374,2007,Portland TrailBlazers,1,1,Greg Oden,Ohio State University
+375,2007,Portland TrailBlazers,2,37,Josh McRoberts,Duke University
+376,2007,Portland TrailBlazers,2,42,Derrick Byars,Vanderbilt University
+377,2007,Portland TrailBlazers,2,52,Taurean Green,University of Florida
+378,2007,Portland TrailBlazers,2,53,Demetris Nichols,Syracuse University
+379,2006,Portland TrailBlazers,1,4,Tyrus Thomas,Louisiana State University
+380,2006,Portland TrailBlazers,1,30,Joel Freeland,
+381,2006,Portland TrailBlazers,2,31,James White,University of Cincinnati
+382,2005,Portland TrailBlazers,1,6,Martell Webster,
+383,2005,Portland TrailBlazers,1,27,Linas Kleiza,University of Missouri
+384,2005,Portland TrailBlazers,2,35,Ricky Sanchez,
+385,2004,Portland TrailBlazers,1,13,Sebastian Telfair,
+386,2004,Portland TrailBlazers,1,23,Sergei Monia,
+387,2004,Portland TrailBlazers,2,46,Ha Seung-Jin,
+388,2003,Portland TrailBlazers,1,23,Travis Outlaw,
+389,2003,Portland TrailBlazers,2,54,Nedzad Sinanovic,
+390,2002,Portland TrailBlazers,1,21,Qyntel Woods,Northeast Mississippi Community College
+391,2002,Portland TrailBlazers,2,43,Jason Jennings,
+392,2002,Portland TrailBlazers,2,51,Federico Kammerichs,
+393,2001,Portland TrailBlazers,1,19,Zach Randolph,Michigan State University
+394,2001,Portland TrailBlazers,2,50,Ruben Boumtje-Boumtje,Georgetown University
+395,2000,Portland TrailBlazers,1,28,Erick Barkley,St. John's University
+396,1999,Portland TrailBlazers,2,52,Roberto Bergersen,
+397,1997,Portland TrailBlazers,1,18,Chris Anstey,
+398,1997,Portland TrailBlazers,2,47,Alvin Williams,Villanova University
+399,1996,Portland TrailBlazers,1,17,Jermaine O'Neal,
+400,1996,Portland TrailBlazers,2,46,Marcus Brown,Murray State University
+401,1995,Portland TrailBlazers,1,8,Shawn Respert,Michigan State University
+402,1994,Portland TrailBlazers,1,17,Aaron McKie,Temple University
+403,1994,Portland TrailBlazers,2,43,Shawnelle Scott,St. John's University
+404,1993,Portland TrailBlazers,1,21,James Robinson,University of Alabama
+405,1993,Portland TrailBlazers,2,48,Kevin Thompson,North Carolina State University
+406,1992,Portland TrailBlazers,1,26,Dave Johnson,Syracuse University
+407,1992,Portland TrailBlazers,2,31,Reggie Smith,Texas Christian University
+408,1991,Portland TrailBlazers,2,54,Marcus Kennedy,
+409,1990,Portland TrailBlazers,1,25,Alaa Abdelnaby,Duke University
+410,1989,Portland TrailBlazers,1,22,Byron Irvin,University of Missouri
+411,1989,Portland TrailBlazers,2,36,Clifford Robinson,University of Connecticut
+412,1988,Portland TrailBlazers,1,21,Mark Bryant,Seton Hall University
+413,1988,Portland TrailBlazers,2,26,Rolando Ferreira,University of Houston
+414,1988,Portland TrailBlazers,3,53,Anthony Mason,Tennessee State University
+415,1988,Portland TrailBlazers,3,71,Craig Neal,Georgia Institute of Technology
+416,1987,Portland TrailBlazers,1,17,Ronnie Murphy,Jacksonville University
+417,1987,Portland TrailBlazers,2,29,Lester Fonville,
+418,1987,Portland TrailBlazers,2,30,Nikita Wilson,Louisiana State University
+419,1987,Portland TrailBlazers,3,63,Kevin Gamble,University of Iowa
+420,1987,Portland TrailBlazers,4,86,Norwood Barber,
+421,1987,Portland TrailBlazers,5,109,David Moss,
+422,1987,Portland TrailBlazers,6,132,Bernard Johnson,
+423,1987,Portland TrailBlazers,7,155,Kenny Stone,
+424,1986,Portland TrailBlazers,1,14,Walter Berry,St. John's University
+425,1986,Portland TrailBlazers,1,24,Arvydas Sabonis,
+426,1986,Portland TrailBlazers,2,37,Parragiotis Fasoulas,
+427,1986,Portland TrailBlazers,3,49,Juden Smith,
+428,1986,Portland TrailBlazers,3,60,Drazen Petrovic,
+429,1986,Portland TrailBlazers,4,83,David Shaffer,
+430,1986,Portland TrailBlazers,5,106,Jerry Adams,
+431,1986,Portland TrailBlazers,6,129,Tony Hampton,
+432,1986,Portland TrailBlazers,7,152,Randy Schiff,
+433,1985,Portland TrailBlazers,1,24,Terry Porter,University of Wisconsin-Stevens Point
+434,1985,Portland TrailBlazers,2,25,Mike Smrek,Canisius College
+435,1985,Portland TrailBlazers,2,39,George Montgomery,
+436,1985,Portland TrailBlazers,3,61,Perry Young,Virginia Polytechnic Institute and State University
+437,1985,Portland TrailBlazers,4,85,Joe Atkinson,
+438,1985,Portland TrailBlazers,5,107,James Anderson,
+439,1985,Portland TrailBlazers,6,131,Curtis Moore,
+440,1985,Portland TrailBlazers,7,153,Mark Owen,
+441,1984,Portland TrailBlazers,1,2,Sam Bowie,University of Kentucky
+442,1984,Portland TrailBlazers,1,19,Bernard Thompson,California State University Fresno
+443,1984,Portland TrailBlazers,2,26,Victor Fleming,
+444,1984,Portland TrailBlazers,2,33,Steve Colter,New Mexico State University
+445,1984,Portland TrailBlazers,2,46,Jerome Kersey,Longwood University
+446,1984,Portland TrailBlazers,3,65,Tim Kearney,
+447,1984,Portland TrailBlazers,4,88,Brett Applegate,
+448,1984,Portland TrailBlazers,5,111,Mike Whitmarsh,
+449,1984,Portland TrailBlazers,6,134,Lance Ball,
+450,1984,Portland TrailBlazers,7,157,Victor Anger,
+451,1984,Portland TrailBlazers,8,180,Steve Flint,
+452,1984,Portland TrailBlazers,9,202,Dennis Black,
+453,1984,Portland TrailBlazers,10,224,Randy Dunn,
+454,1983,Portland TrailBlazers,1,14,Clyde Drexler,University of Houston
+455,1983,Portland TrailBlazers,2,39,Granville Waiters,Ohio State University
+456,1983,Portland TrailBlazers,3,62,Tom Piotrowski,La Salle University
+457,1983,Portland TrailBlazers,4,85,Tim Dunham,
+458,1983,Portland TrailBlazers,5,108,Gary Monroe,
+459,1983,Portland TrailBlazers,6,131,Derrick Pope,
+460,1983,Portland TrailBlazers,7,154,Paul Little,
+461,1983,Portland TrailBlazers,8,177,Frank Smith,
+462,1983,Portland TrailBlazers,9,199,Phil Hopson,
+463,1983,Portland TrailBlazers,10,220,Russ Christianson,
+464,1982,Portland TrailBlazers,1,11,Fat Lever,Arizona State University
+465,1982,Portland TrailBlazers,2,33,Linton Townes,James Madison University
+466,1982,Portland TrailBlazers,2,37,Audie Norris,Jackson State University
+467,1982,Portland TrailBlazers,3,66,Phillip Lockett,
+468,1982,Portland TrailBlazers,4,79,Eric Smith,
+469,1982,Portland TrailBlazers,5,103,Cherokee Rhone,
+470,1982,Portland TrailBlazers,6,125,Leo Cunningham,
+471,1982,Portland TrailBlazers,7,149,Terry Long,
+472,1982,Portland TrailBlazers,8,171,Dave Porter,
+473,1982,Portland TrailBlazers,9,195,Mark Dearborn,
+474,1982,Portland TrailBlazers,10,215,Grant Taylor,
+475,1981,Portland TrailBlazers,1,15,Jeff Lamp,University of Virginia
+476,1981,Portland TrailBlazers,1,16,Darnell Valentine,University of Kansas
+477,1981,Portland TrailBlazers,2,26,Brian Jackson,
+478,1981,Portland TrailBlazers,3,50,Derek Holcomb,
+479,1981,Portland TrailBlazers,3,61,Petur Gudmundsson,University of Washington
+480,1981,Portland TrailBlazers,4,85,Pete Verhoeven,California State University Fresno
+481,1981,Portland TrailBlazers,5,107,Herb Andrew,
+482,1981,Portland TrailBlazers,6,131,Roshern Arnie,
+483,1981,Portland TrailBlazers,7,153,Julius Wayne,
+484,1981,Portland TrailBlazers,8,176,John Smith,
+485,1981,Portland TrailBlazers,9,196,Sid Williams,
+486,1981,Portland TrailBlazers,10,217,Steve Cochran,
+487,1980,Portland TrailBlazers,1,10,Ronnie Lester,University of Iowa
+488,1980,Portland TrailBlazers,2,32,David Lawrence,
+489,1980,Portland TrailBlazers,2,33,Bruce Collins,
+490,1980,Portland TrailBlazers,3,56,Mike Harper,North Park University
+491,1980,Portland TrailBlazers,4,79,Kelvin Henderson,
+492,1980,Portland TrailBlazers,5,102,Larry Belin,
+493,1980,Portland TrailBlazers,6,125,Perry Mirkovich,
+494,1980,Portland TrailBlazers,7,148,Gig Sims,
+495,1980,Portland TrailBlazers,8,168,John Stroeder,University of Montana
+496,1980,Portland TrailBlazers,9,188,Rich Boucher,
+497,1980,Portland TrailBlazers,10,205,Dave Kufeld,
+498,1979,Portland TrailBlazers,1,12,Jim Paxson,University of Dayton
+499,1979,Portland TrailBlazers,2,40,Andrew Fields,
+500,1979,Portland TrailBlazers,3,56,Mickey Fox,
+501,1979,Portland TrailBlazers,4,78,Daryll Robinson,
+502,1979,Portland TrailBlazers,5,100,Matt White,
+503,1979,Portland TrailBlazers,6,120,Ray Ellis,
+504,1979,Portland TrailBlazers,7,140,Jeff Tropf,
+505,1979,Portland TrailBlazers,8,159,Willie Pounds,
+506,1979,Portland TrailBlazers,9,177,Stan Eckwood,
+507,1979,Portland TrailBlazers,10,195,Kelvin Small,
+508,1978,Portland TrailBlazers,1,1,Mychal Thompson,University of Minnesota
+509,1978,Portland TrailBlazers,1,7,Ron Brewer,University of Arkansas
+510,1978,Portland TrailBlazers,2,24,Keith Herron,Villanova University
+511,1978,Portland TrailBlazers,2,44,Clemon Johnson,Florida Agricultural and Mechanical University
+512,1978,Portland TrailBlazers,3,66,Sterling Edmunds,
+513,1978,Portland TrailBlazers,5,110,Clay Johnson,University of Missouri
+514,1978,Portland TrailBlazers,6,131,Tim Evans,
+515,1978,Portland TrailBlazers,7,152,Walter Reason,
+516,1978,Portland TrailBlazers,8,170,Mark Wickman,
+517,1978,Portland TrailBlazers,9,186,Paul Cozens,
+518,1978,Portland TrailBlazers,10,202,Tim Workington,
+519,1977,Portland TrailBlazers,1,19,Rich Laurel,Hofstra University
+520,1977,Portland TrailBlazers,2,28,Kim Anderson,University of Missouri
+521,1977,Portland TrailBlazers,2,41,T.R. Dunn,University of Alabama
+522,1977,Portland TrailBlazers,3,63,Ricky Brown,
+523,1977,Portland TrailBlazers,4,85,Greg White,
+524,1977,Portland TrailBlazers,5,107,Donn Wilber,
+525,1977,Portland TrailBlazers,6,128,Myron Jordan,
+526,1977,Portland TrailBlazers,7,148,Don Smith,
+527,1977,Portland TrailBlazers,8,167,Harold Rhodes,
+528,1976,Portland TrailBlazers,1,5,Wally Walker,University of Virginia
+529,1976,Portland TrailBlazers,2,20,Major Jones,Albany State University
+530,1976,Portland TrailBlazers,2,22,Johnny Davis,University of Dayton
+531,1976,Portland TrailBlazers,3,39,Jeff Tyson,
+532,1976,Portland TrailBlazers,4,56,David Everett,
+533,1976,Portland TrailBlazers,5,73,Gary Reddings,
+534,1976,Portland TrailBlazers,7,109,Al DeWitt,
+535,1976,Portland TrailBlazers,8,127,Brant Gibbler,
+536,1976,Portland TrailBlazers,9,145,Rob Torresdal,
+537,1976,Portland TrailBlazers,10,162,Marcos Leite,
+538,1975,Portland TrailBlazers,1,6,Lionel Hollins,Arizona State University
+539,1975,Portland TrailBlazers,2,25,Bob Gross,California State University Long Beach
+540,1975,Portland TrailBlazers,3,42,Tom Roy,
+541,1975,Portland TrailBlazers,3,50,Gus Gerard,University of Virginia
+542,1975,Portland TrailBlazers,4,61,Phil Hicks,Tulane University
+543,1975,Portland TrailBlazers,5,78,Maurice Presley,
+544,1975,Portland TrailBlazers,6,97,Gerald Willett,
+545,1975,Portland TrailBlazers,7,114,Steve Fields,
+546,1975,Portland TrailBlazers,8,133,Charley Neal,
+547,1975,Portland TrailBlazers,9,149,Quintin Braxton,
+548,1975,Portland TrailBlazers,10,166,Tyree Foster,
+549,1974,Portland TrailBlazers,1,1,Bill Walton,University of California Los Angeles
+550,1974,Portland TrailBlazers,2,20,Jan Van Breda Kolff,Vanderbilt University
+551,1974,Portland TrailBlazers,2,34,Phil Lumpkin,Miami University
+552,1974,Portland TrailBlazers,2,36,Rubin Collins,
+553,1974,Portland TrailBlazers,4,56,Mickey Johnson,Aurora University
+554,1974,Portland TrailBlazers,5,74,Bernard Hardin,
+555,1974,Portland TrailBlazers,6,92,Dan Anderson,University of Southern California
+556,1974,Portland TrailBlazers,7,110,Doug Richards,
+557,1974,Portland TrailBlazers,8,128,Eldridge Broussard,
+558,1974,Portland TrailBlazers,9,146,Lee Haven,
+559,1974,Portland TrailBlazers,10,163,Ron Jones,
+560,1973,Portland TrailBlazers,1,15,Barry Parkhill,University of Virginia
+561,1973,Portland TrailBlazers,4,55,William Averitt,
+562,1973,Portland TrailBlazers,5,71,Fran Costello,
+563,1973,Portland TrailBlazers,6,89,Neal Jurgensen,
+564,1973,Portland TrailBlazers,7,105,Larry Hollyfield,
+565,1973,Portland TrailBlazers,8,123,Lendell Resson,
+566,1973,Portland TrailBlazers,9,139,Mike Contreras,
+567,1973,Portland TrailBlazers,10,154,Sam Whitehead,
+568,1973,Portland TrailBlazers,11,167,Ed Payne,
+569,1973,Portland TrailBlazers,12,177,Rick Holdt,
+570,1972,Portland TrailBlazers,1,1,LaRue Martin,Loyola University of Chicago
+571,1972,Portland TrailBlazers,2,14,Bob Davis,Weber State University
+572,1972,Portland TrailBlazers,2,26,Dave Twardzik,Old Dominion University
+573,1972,Portland TrailBlazers,2,30,Ollie Johnson,Temple University
+574,1972,Portland TrailBlazers,3,31,Lloyd Neal,Tennessee State University
+575,1972,Portland TrailBlazers,4,48,Gary Stewart,
+576,1972,Portland TrailBlazers,5,64,Mike Reid,
+577,1972,Portland TrailBlazers,6,81,Joe Gaines,
+578,1972,Portland TrailBlazers,7,98,Bob Lynn,
+579,1972,Portland TrailBlazers,8,114,Ruben Vance,
+580,1972,Portland TrailBlazers,9,130,Scott McCandlish,
+581,1972,Portland TrailBlazers,10,144,Kresimir Cosic,
+582,1972,Portland TrailBlazers,11,157,Jimmy Wilkins,
+583,1972,Portland TrailBlazers,13,175,Larry Morris,
+584,1972,Portland TrailBlazers,14,181,Paul Kelley,
+585,1972,Portland TrailBlazers,15,188,Rich Haubeggar,
+586,1972,Portland TrailBlazers,16,193,Mose Adolph,
+587,1971,Portland TrailBlazers,1,2,Sidney Wicks,University of California Los Angeles
+588,1971,Portland TrailBlazers,2,25,Charlie Yelverton,Fordham University
+589,1971,Portland TrailBlazers,2,27,Richard Fisher,Colorado State University
+590,1971,Portland TrailBlazers,3,37,Larry Steele,University of Kentucky
+591,1971,Portland TrailBlazers,3,42,William Smith,Syracuse University
+592,1971,Portland TrailBlazers,4,54,Bobby Fields,La Salle University
+593,1971,Portland TrailBlazers,5,71,Hector Blondet,
+594,1971,Portland TrailBlazers,6,88,Jim Day,
+595,1971,Portland TrailBlazers,7,105,Gene Knolle,
+596,1971,Portland TrailBlazers,8,122,John Sutter,
+597,1971,Portland TrailBlazers,9,139,Goo Kennedy,Texas Christian University
+598,1971,Portland TrailBlazers,10,155,Greg Starrick,
+599,1971,Portland TrailBlazers,11,171,Howard Burford,
+600,1971,Portland TrailBlazers,12,185,Don Sechler,
+601,1970,Portland TrailBlazers,1,8,Geoff Petrie,Princeton University
+602,1970,Portland TrailBlazers,2,25,Walt Gilmore,Fort Valley State University
+603,1970,Portland TrailBlazers,3,42,Bill Cain,
+604,1970,Portland TrailBlazers,4,59,Jim Penix,
+605,1970,Portland TrailBlazers,5,76,Ron Knight,California State University Los Angeles
+606,1970,Portland TrailBlazers,6,93,George Janky,
+607,1970,Portland TrailBlazers,7,110,Claude English,University of Rhode Island
+608,1970,Portland TrailBlazers,8,127,Doug Boyd,
+609,1970,Portland TrailBlazers,9,144,Billy Gaskins,
+610,2018,Houston Rockets,2,46,De'Anthony Melton,University of Southern California
+611,2017,Houston Rockets,2,43,Isaiah Hartenstein,
+612,2017,Houston Rockets,2,45,Dillon Brooks,University of Oregon
+613,2016,Houston Rockets,2,37,Chinanu Onuaku,University of Louisville
+614,2016,Houston Rockets,2,43,Zhou Qi,
+615,2015,Houston Rockets,1,18,Sam Dekker,University of Wisconsin
+616,2015,Houston Rockets,2,32,Montrezl Harrell,University of Louisville
+617,2014,Houston Rockets,1,25,Clint Capela,
+618,2014,Houston Rockets,2,42,Nick Johnson,University of Arizona
+619,2013,Houston Rockets,2,34,Isaiah Canaan,Murray State University
+620,2012,Houston Rockets,1,12,Jeremy Lamb,University of Connecticut
+621,2012,Houston Rockets,1,16,Royce White,Iowa State University
+622,2012,Houston Rockets,1,18,Terrence Jones,University of Kentucky
+623,2011,Houston Rockets,1,14,Marcus Morris,University of Kansas
+624,2011,Houston Rockets,1,23,Nikola Mirotic,
+625,2011,Houston Rockets,2,38,Chandler Parsons,University of Florida
+626,2010,Houston Rockets,1,14,Patrick Patterson,University of Kentucky
+627,2008,Houston Rockets,1,25,Nicolas Batum,
+628,2008,Houston Rockets,2,54,Maarty Leunen,University of Oregon
+629,2007,Houston Rockets,1,26,Aaron Brooks,University of Oregon
+630,2007,Houston Rockets,2,54,Brad Newley,
+631,2006,Houston Rockets,1,8,Rudy Gay,University of Connecticut
+632,2006,Houston Rockets,2,32,Steve Novak,Marquette University
+633,2005,Houston Rockets,1,24,Luther Head,University of Illinois at Urbana-Champaign
+634,2004,Houston Rockets,2,55,Luis Flores,Manhattan College
+635,2003,Houston Rockets,2,44,Malick Badiane,
+636,2002,Houston Rockets,1,1,Yao Ming,
+637,2002,Houston Rockets,1,15,Bostjan Nachbar,
+638,2002,Houston Rockets,2,38,Tito Maddox,California State University Fresno
+639,2001,Houston Rockets,1,13,Richard Jefferson,University of Arizona
+640,2001,Houston Rockets,1,18,Jason Collins,Stanford University
+641,2001,Houston Rockets,1,23,Brandon Armstrong,Pepperdine University
+642,2000,Houston Rockets,1,9,Joel Przybilla,University of Minnesota
+643,2000,Houston Rockets,2,38,Eduardo Najera,University of Oklahoma
+644,1999,Houston Rockets,1,22,Kenny Thomas,University of New Mexico
+645,1999,Houston Rockets,2,44,Tyrone Washington,
+646,1999,Houston Rockets,2,50,Venson Hamilton,University of Nebraska
+647,1998,Houston Rockets,1,14,Michael Dickerson,University of Arizona
+648,1998,Houston Rockets,1,16,Bryce Drew,Valparaiso University
+649,1998,Houston Rockets,1,18,Mirsad Turkcan,
+650,1998,Houston Rockets,2,41,Cuttino Mobley,University of Rhode Island
+651,1997,Houston Rockets,1,24,Rodrick Rhodes,University of Southern California
+652,1997,Houston Rockets,2,29,Serge Zwikker,
+653,1996,Houston Rockets,2,30,Othella Harrington,Georgetown University
+654,1996,Houston Rockets,2,42,Randy Livingston,Louisiana State University
+655,1996,Houston Rockets,2,50,Terrell Bell,
+656,1995,Houston Rockets,2,41,Erik Meek,
+657,1994,Houston Rockets,2,53,Albert Burditt,
+658,1993,Houston Rockets,1,24,Sam Cassell,Florida State University
+659,1993,Houston Rockets,2,46,Richard Petruska,University of California Los Angeles
+660,1993,Houston Rockets,2,50,Marcelo Nicola,
+661,1992,Houston Rockets,1,11,Robert Horry,University of Alabama
+662,1992,Houston Rockets,2,41,Popeye Jones,Murray State University
+663,1992,Houston Rockets,2,53,Curtis Blair,
+664,1991,Houston Rockets,1,20,John Turner,Phillips University
+665,1991,Houston Rockets,2,47,Keith Hughes,
+666,1991,Houston Rockets,2,51,Zan Tabak,
+667,1990,Houston Rockets,1,12,Alec Kessler,University of Georgia
+668,1988,Houston Rockets,1,16,Derrick Chievous,University of Missouri
+669,1987,Houston Rockets,2,35,Doug Lee,Purdue University
+670,1987,Houston Rockets,4,82,Joe Niego,
+671,1987,Houston Rockets,5,104,Andre LaFleur,
+672,1987,Houston Rockets,6,129,Fred Jenkins,
+673,1987,Houston Rockets,7,151,Clarence Grier,
+674,1986,Houston Rockets,1,20,Buck Johnson,University of Alabama
+675,1986,Houston Rockets,2,43,Dave Feitl,University of Texas at El Paso
+676,1986,Houston Rockets,3,66,Anthony Bowie,University of Oklahoma
+677,1986,Houston Rockets,4,89,Conner Henry,University of California Santa Barbara
+678,1986,Houston Rockets,5,112,Andre Banks,
+679,1986,Houston Rockets,6,135,Robert Worthy,
+680,1986,Houston Rockets,7,158,Rick Olson,
+681,1985,Houston Rockets,1,19,Steve Harris,University of Tulsa
+682,1985,Houston Rockets,3,54,Sam Mitchell,Mercer University
+683,1985,Houston Rockets,3,57,Michael Payne,
+684,1985,Houston Rockets,4,88,Mike Brooks,
+685,1985,Houston Rockets,6,134,Sam Potter,
+686,1984,Houston Rockets,1,1,Hakeem Olajuwon,University of Houston
+687,1984,Houston Rockets,3,51,Jim Petersen,University of Minnesota
+688,1984,Houston Rockets,4,74,Willie Jackson,
+689,1984,Houston Rockets,5,97,Al McClain,
+690,1984,Houston Rockets,7,143,Joedy Gardner,
+691,1984,Houston Rockets,8,166,Greg Wolff,
+692,1984,Houston Rockets,9,188,Bill Coon,
+693,1984,Houston Rockets,10,210,Robert Turner,
+694,1983,Houston Rockets,1,1,Ralph Sampson,University of Virginia
+695,1983,Houston Rockets,1,3,Rodney McCray,University of Louisville
+696,1983,Houston Rockets,3,48,Craig Ehlo,Washington State University
+697,1983,Houston Rockets,4,71,Darrell Browder,
+698,1983,Houston Rockets,5,94,Chuck Barnett,
+699,1983,Houston Rockets,6,117,Jim Stack,
+700,1983,Houston Rockets,7,140,Brian Kellerman,
+701,1983,Houston Rockets,8,163,Jeff Bolding,
+702,1983,Houston Rockets,9,185,James Campbell,
+703,1982,Houston Rockets,1,16,Terry Teagle,Baylor University
+704,1982,Houston Rockets,2,42,Jeff Taylor,Texas Tech University
+705,1982,Houston Rockets,3,63,Chuck Nevitt,North Carolina State University
+706,1982,Houston Rockets,4,85,Andre Gaddy,
+707,1982,Houston Rockets,5,107,Jeff Schneider,
+708,1982,Houston Rockets,6,132,Don Wilson,
+709,1982,Houston Rockets,7,154,Mike Helms,
+710,1982,Houston Rockets,8,176,Dan Callandrillo,
+711,1981,Houston Rockets,2,45,Ed Turner,
+712,1981,Houston Rockets,4,81,Larry Spriggs,Howard University
+713,1981,Houston Rockets,5,105,Hasan Houston,
+714,1981,Houston Rockets,6,127,Fred Cowan,
+715,1981,Houston Rockets,7,151,Joe Faine,
+716,1981,Houston Rockets,8,172,Stanley Brewer,
+717,1980,Houston Rockets,2,27,John Stroud,University of Mississippi
+718,1980,Houston Rockets,2,38,Terry Stotts,
+719,1980,Houston Rockets,2,43,Billy Williams,
+720,1980,Houston Rockets,4,84,Dean Hunger,
+721,1980,Houston Rockets,5,106,Albert Jones,
+722,1980,Houston Rockets,6,130,Everette Jefferson,
+723,1980,Houston Rockets,7,152,Joe Nehls,
+724,1980,Houston Rockets,8,173,Rosie Barnes,
+725,1979,Houston Rockets,1,17,Lee Johnson,East Texas State University
+726,1979,Houston Rockets,2,42,Paul Mokeski,University of Kansas
+727,1979,Houston Rockets,3,59,Ricardo Brown,
+728,1979,Houston Rockets,4,76,Sammy Drummer,
+729,1979,Houston Rockets,4,80,Lionel Green,
+730,1979,Houston Rockets,5,104,Allen Leavell,Oklahoma City University
+731,1979,Houston Rockets,6,124,Collie Davis,
+732,1979,Houston Rockets,7,143,Rich Valavicius,
+733,1979,Houston Rockets,8,161,Delbert Watson,
+734,1978,Houston Rockets,2,28,Buster Matheney,
+735,1978,Houston Rockets,3,47,Billy Ray Bates,Kentucky State University
+736,1978,Houston Rockets,4,67,Jackie Robinson,University of Nevada Las Vegas
+737,1978,Houston Rockets,4,69,Joel Thompson,
+738,1978,Houston Rockets,5,91,Gary Goodner,
+739,1978,Houston Rockets,6,113,Eddie Joe Chavez,
+740,1978,Houston Rockets,7,134,Stan Stewart,
+741,1977,Houston Rockets,2,34,Larry Moffett,University of Nevada Las Vegas
+742,1977,Houston Rockets,2,40,Robert Reid,St. Mary's University
+743,1977,Houston Rockets,3,62,Phil Bond,University of Louisville
+744,1977,Houston Rockets,4,84,Rocky Smith,
+745,1977,Houston Rockets,5,106,Ed Thompson,
+746,1976,Houston Rockets,1,1,John Lucas,University of Maryland
+747,1976,Houston Rockets,2,27,Phil Hicks,Tulane University
+748,1976,Houston Rockets,3,44,Barnes Hauptfuhrer,
+749,1976,Houston Rockets,4,61,Hercle Ivy,
+750,1976,Houston Rockets,5,78,Dave Marrs,
+751,1976,Houston Rockets,6,96,Robert Paige,
+752,1976,Houston Rockets,7,114,Barry Davis,
+753,1976,Houston Rockets,8,132,Dan Kruger,
+754,1975,Houston Rockets,1,11,Joe Meriweather,Southern Illinois University
+755,1975,Houston Rockets,2,29,Jim Blanks,
+756,1975,Houston Rockets,3,47,Rudy White,Arizona State University
+757,1975,Houston Rockets,4,65,Ken Smith,University of Tulsa
+758,1975,Houston Rockets,5,83,Rick Whitlow,
+759,1975,Houston Rockets,6,101,William Johnson,
+760,1975,Houston Rockets,7,119,Nathaniel Barnett,University of Akron
+761,1975,Houston Rockets,8,137,Leon Johnson,
+762,1975,Houston Rockets,9,154,Steve Storther,
+763,1974,Houston Rockets,1,5,Bobby Jones,University of North Carolina
+764,1974,Houston Rockets,2,23,Gus Bailey,University of Texas at El Paso
+765,1974,Houston Rockets,3,41,Robert Wilson,
+766,1974,Houston Rockets,4,59,Larry Robinson,
+767,1974,Houston Rockets,5,77,Owen Wells,University of Detroit Mercy
+768,1974,Houston Rockets,6,95,Lawrence Johnson,
+769,1974,Houston Rockets,7,113,Kevin Fitzgerald,
+770,1974,Houston Rockets,8,131,Steve Brooks,
+771,1974,Houston Rockets,9,149,Ken Stalling,
+772,1974,Houston Rockets,10,166,Marcus Washington,
+773,1973,Houston Rockets,1,6,Ed Ratleff,California State University Long Beach
+774,1973,Houston Rockets,3,51,E.C. Coleman,Houston Baptist University
+775,1973,Houston Rockets,4,58,Lee Colburn,
+776,1973,Houston Rockets,5,75,Gary Rhoades,
+777,1973,Houston Rockets,6,92,Tom Peck,
+778,1973,Houston Rockets,7,109,Fred DeVaughn,
+779,1973,Houston Rockets,8,126,John Thomas,
+780,1972,Houston Rockets,2,20,John Gianelli,University of the Pacific
+781,1972,Houston Rockets,3,37,Eric McWilliams,California State University Long Beach
+782,1972,Houston Rockets,4,54,Wilbert Robinson,West Virginia University
+783,1972,Houston Rockets,5,70,James Silas,Stephen F. Austin State University
+784,1972,Houston Rockets,6,87,Mike Collins,
+785,1972,Houston Rockets,7,104,Mike Jackson,California State University Los Angeles
+786,1972,Houston Rockets,8,120,Henry Harris,
+787,1971,Houston Rockets,1,7,Cliff Meely,University of Colorado
+788,1971,Houston Rockets,2,24,Mike Newlin,University of Utah
+789,1971,Houston Rockets,4,58,Tom Owens,University of South Carolina
+790,1971,Houston Rockets,5,75,Rudy Benjamin,
+791,1971,Houston Rockets,5,78,Greg Nelson,
+792,1971,Houston Rockets,6,92,Garry Reist,
+793,1971,Houston Rockets,7,109,Eric Hill,
+794,1971,Houston Rockets,8,126,Rich Katherman,
+795,1971,Houston Rockets,9,142,Willie Kerry,
+796,1971,Houston Rockets,10,158,Calvin Oliver,
+797,1971,Houston Rockets,11,174,Doug Rex,
+798,1971,Houston Rockets,12,187,Chris Schrobilgen,
+799,1971,Houston Rockets,13,199,Lee McCollough,
+800,1971,Houston Rockets,14,210,Gene Roberson,
+801,1971,Houston Rockets,15,219,Terry Guigg,
+802,1971,Houston Rockets,16,227,Leonard Jackson,
+803,1971,Houston Rockets,17,231,Steve Sims,
+804,1971,Houston Rockets,18,234,Carlos Quintar,
+805,1971,Houston Rockets,19,236,Gary Schneider,
+806,1970,Houston Rockets,1,2,Rudy Tomjanovich,University of Michigan
+807,1970,Houston Rockets,2,18,Calvin Murphy,Niagara University
+808,1970,Houston Rockets,3,35,Curtis Perry,Missouri State University
+809,1970,Houston Rockets,4,52,Jody Finney,
+810,1970,Houston Rockets,5,69,James Gilbert,
+811,1970,Houston Rockets,6,86,Mike Kretzer,
+812,1970,Houston Rockets,7,103,Billy Paultz,St. John's University
+813,1970,Houston Rockets,8,120,Don Adams,Northwestern University
+814,1970,Houston Rockets,9,137,Jim Gottschall,
+815,1970,Houston Rockets,10,154,Toke Coleman,
+816,1970,Houston Rockets,11,171,Ron Belton,
+817,1970,Houston Rockets,12,184,Jim Brooks,
+818,1970,Houston Rockets,13,194,Harry Lozon,
+819,1970,Houston Rockets,14,204,Clyde Oatis,
+820,1970,Houston Rockets,15,214,Jay Bond,
+821,1970,Houston Rockets,16,223,Dean Olofson,
+822,1970,Houston Rockets,17,230,Dennis Dickens,
+823,1970,Houston Rockets,18,234,Jeff Cunningham,
+824,1970,Houston Rockets,19,237,Rick Erickson,
+825,1969,Houston Rockets,1,6,Bingo Smith,University of Tulsa
+826,1969,Houston Rockets,2,21,Bernie Williams,La Salle University
+827,1969,Houston Rockets,3,35,Charles Bonaparte,
+828,1969,Houston Rockets,4,49,Johnny Allen,
+829,1969,Houston Rockets,5,63,Charles Hentz,University of Arkansas at Pine Bluff
+830,1969,Houston Rockets,6,77,Bob Tallent,
+831,1969,Houston Rockets,7,91,Lynn Shackelford,University of California Los Angeles
+832,1969,Houston Rockets,8,105,Bill DeHeer,
+833,1969,Houston Rockets,9,119,Larry Cheatham,
+834,1969,Houston Rockets,10,133,Lee Sims,
+835,1969,Houston Rockets,11,147,Justus Thigpen,Weber State University
+836,1969,Houston Rockets,12,160,Raul Duarte,
+837,1969,Houston Rockets,13,173,Joe McBride,
+838,1969,Houston Rockets,14,184,Mike Heckman,
+839,1969,Houston Rockets,15,192,Jerry Nickens,
+840,1969,Houston Rockets,16,198,Dick Groves,
+841,1969,Houston Rockets,17,204,Steve Howell,
+842,1969,Houston Rockets,18,209,Joe Pridgen,
+843,1969,Houston Rockets,19,213,Blaine Royer,
+844,1968,Houston Rockets,1,1,Elvin Hayes,University of Houston
+845,1968,Houston Rockets,2,15,John Trapp,University of Nevada Las Vegas
+846,1968,Houston Rockets,3,23,Stu Lantz,University of Nebraska
+847,1968,Houston Rockets,4,37,Harry Barnes,Northeastern University
+848,1968,Houston Rockets,4,48,Darryl Jones,
+849,1968,Houston Rockets,5,51,Glen Combs,Virginia Polytechnic Institute and State University
+850,1968,Houston Rockets,6,65,Eldridge Webb,
+851,1968,Houston Rockets,7,79,Rick Adelman,Loyola Marymount University
+852,1968,Houston Rockets,8,93,Aaron Sellers,
+853,1968,Houston Rockets,9,107,John Schetzsle,
+854,1968,Houston Rockets,10,121,Mike Butler,University of Memphis
+855,1968,Houston Rockets,11,135,Leonardo Epps,
+856,1968,Houston Rockets,12,148,Roy Manning,
+857,1968,Houston Rockets,13,161,Marshall Evans,
+858,1968,Houston Rockets,14,172,Bobby Lewis,
+859,1968,Houston Rockets,15,182,Bill Gaines,East Texas State University
+860,1968,Houston Rockets,16,190,Chuck Caldwell,
+861,1968,Houston Rockets,17,198,Dave Miller,
+862,1968,Houston Rockets,18,204,Harold Grant,
+863,1968,Houston Rockets,19,208,Bill Corley,
+864,1967,Houston Rockets,1,7,Pat Riley,University of Kentucky
+865,1967,Houston Rockets,2,18,Bob Netolicky,Drake University
+866,1967,Houston Rockets,3,29,Richard Moore,Hiram Scott College
+867,1967,Houston Rockets,3,31,Nick Jones,University of Oregon
+868,1967,Houston Rockets,4,41,Ronald Kozlicki,Northwestern University
+869,1967,Houston Rockets,4,42,Craig Dill,University of Michigan
+870,1967,Houston Rockets,5,55,Herb McPherson,
+871,1967,Houston Rockets,6,66,Robert Cole,
+872,1967,Houston Rockets,7,79,Elbert Miller,
+873,1967,Houston Rockets,8,90,Al Grundy,
+874,1967,Houston Rockets,9,102,Ron Coleman,
+875,1967,Houston Rockets,10,112,John Duncan,
+876,1967,Houston Rockets,11,123,Al Razutis,
+877,1967,Houston Rockets,12,132,Martin Navia,
+878,1967,Houston Rockets,13,141,Bob Chlupsa,
+879,1967,Houston Rockets,14,146,John Tolbert,
+880,2018,Utah Jazz,1,21,Grayson Allen,Duke University
+881,2018,Utah Jazz,2,52,Vince Edwards,Purdue University
+882,2017,Utah Jazz,1,24,Tyler Lydon,Syracuse University
+883,2017,Utah Jazz,1,30,Josh Hart,Villanova University
+884,2017,Utah Jazz,2,42,Thomas Bryant,Indiana University
+885,2017,Utah Jazz,2,55,Nigel Williams-Goss,Gonzaga University
+886,2016,Utah Jazz,1,12,Taurean Prince,Baylor University
+887,2016,Utah Jazz,2,42,Isaiah Whitehead,Seton Hall University
+888,2016,Utah Jazz,2,52,Joel Bolomboy,Weber State University
+889,2016,Utah Jazz,2,60,Tyrone Wallace,University of California
+890,2015,Utah Jazz,1,12,Trey Lyles,University of Kentucky
+891,2015,Utah Jazz,2,42,Olivier Hanlan,Boston College
+892,2015,Utah Jazz,2,54,Dani Diez,
+893,2014,Utah Jazz,1,5,Dante Exum,
+894,2014,Utah Jazz,1,23,Rodney Hood,Duke University
+895,2014,Utah Jazz,2,35,Jarnell Stokes,University of Tennessee
+896,2013,Utah Jazz,1,14,Shabazz Muhammad,University of California Los Angeles
+897,2013,Utah Jazz,1,21,Gorgui Dieng,University of Louisville
+898,2013,Utah Jazz,2,46,Erick Green,Virginia Polytechnic Institute and State University
+899,2012,Utah Jazz,2,47,Kevin Murphy,Tennessee Technological University
+900,2011,Utah Jazz,1,3,Enes Kanter,
+901,2011,Utah Jazz,1,12,Alec Burks,University of Colorado
+902,2010,Utah Jazz,1,9,Gordon Hayward,Butler University
+903,2010,Utah Jazz,2,55,Jeremy Evans,Western Kentucky University
+904,2009,Utah Jazz,1,20,Eric Maynor,Virginia Commonwealth University
+905,2009,Utah Jazz,2,50,Goran Suton,
+906,2008,Utah Jazz,1,23,Kosta Koufos,Ohio State University
+907,2008,Utah Jazz,2,44,Ante Tomic,
+908,2008,Utah Jazz,2,53,Tadija Dragicevic,
+909,2007,Utah Jazz,1,25,Morris Almond,Rice University
+910,2007,Utah Jazz,2,55,Herbert Hill,
+911,2006,Utah Jazz,1,14,Ronnie Brewer,University of Arkansas
+912,2006,Utah Jazz,2,46,Dee Brown,University of Illinois at Urbana-Champaign
+913,2006,Utah Jazz,2,47,Paul Millsap,Louisiana Tech University
+914,2005,Utah Jazz,1,3,Deron Williams,University of Illinois at Urbana-Champaign
+915,2005,Utah Jazz,2,34,C.J. Miles,
+916,2005,Utah Jazz,2,51,Robert Whaley,Walsh University
+917,2004,Utah Jazz,1,14,Kris Humphries,University of Minnesota
+918,2004,Utah Jazz,1,16,Kirk Snyder,University of Nevada Reno
+919,2004,Utah Jazz,1,21,Pavel Podkolzin,
+920,2003,Utah Jazz,1,19,Sasha Pavlovic,
+921,2003,Utah Jazz,2,47,Mo Williams,University of Alabama
+922,2002,Utah Jazz,1,19,Ryan Humphrey,University of Notre Dame
+923,2002,Utah Jazz,2,47,Jamal Sampson,University of California
+924,2001,Utah Jazz,1,24,Raul Lopez,
+925,2001,Utah Jazz,2,53,Jarron Collins,Stanford University
+926,2000,Utah Jazz,1,23,DeShawn Stevenson,
+927,2000,Utah Jazz,2,50,Kaniel Dickens,University of Idaho
+928,1999,Utah Jazz,1,19,Quincy Lewis,University of Minnesota
+929,1999,Utah Jazz,1,24,Andrei Kirilenko,
+930,1999,Utah Jazz,1,28,Scott Padgett,University of Kentucky
+931,1999,Utah Jazz,2,58,Eddie Lucas,
+932,1998,Utah Jazz,1,29,Nazr Mohammed,University of Kentucky
+933,1998,Utah Jazz,2,57,Torraye Braggs,Xavier University
+934,1997,Utah Jazz,1,27,Jacque Vaughn,University of Kansas
+935,1997,Utah Jazz,2,56,Nate Erdmann,
+936,1996,Utah Jazz,1,25,Martin Muursepp,
+937,1996,Utah Jazz,2,54,Shandon Anderson,University of Georgia
+938,1995,Utah Jazz,1,28,Greg Ostertag,University of Kansas
+939,1994,Utah Jazz,2,47,Jamie Watson,University of South Carolina
+940,1993,Utah Jazz,1,18,Luther Wright,Seton Hall University
+941,1993,Utah Jazz,2,45,Bryon Russell,California State University Long Beach
+942,1991,Utah Jazz,1,21,Eric Murdock,Providence College
+943,1991,Utah Jazz,2,48,Isaac Austin,Arizona State University
+944,1990,Utah Jazz,2,33,Walter Palmer,Dartmouth College
+945,1989,Utah Jazz,1,21,Blue Edwards,East Carolina University
+946,1989,Utah Jazz,2,48,Junie Lewis,
+947,1988,Utah Jazz,1,17,Eric Leckner,University of Wyoming
+948,1988,Utah Jazz,2,42,Jeff Moe,
+949,1988,Utah Jazz,3,67,Ricky Grace,University of Oklahoma
+950,1987,Utah Jazz,1,15,Jose Ortiz,Oregon State University
+951,1987,Utah Jazz,3,61,Clarence Martin,
+952,1987,Utah Jazz,3,68,Billy Donovan,Providence College
+953,1987,Utah Jazz,4,84,Reuben Holmes,
+954,1987,Utah Jazz,5,107,Bart Kofoed,University of Nebraska at Kearney
+955,1987,Utah Jazz,6,130,Art Sabb,
+956,1987,Utah Jazz,7,153,Keith Webster,
+957,1986,Utah Jazz,1,15,Dell Curry,Virginia Polytechnic Institute and State University
+958,1986,Utah Jazz,3,61,John Shasky,University of Minnesota
+959,1986,Utah Jazz,3,63,Bill Breeding,
+960,1986,Utah Jazz,4,84,Marty Embry,
+961,1986,Utah Jazz,5,107,Kerry Boagni,
+962,1986,Utah Jazz,6,130,Chuck Everson,
+963,1986,Utah Jazz,7,153,Mark Mitchell,
+964,1985,Utah Jazz,1,13,Karl Malone,Louisiana Tech University
+965,1985,Utah Jazz,2,37,Carey Scurry,Long Island University
+966,1985,Utah Jazz,4,83,Delaney Rudd,Wake Forest University
+967,1985,Utah Jazz,5,105,Ray Hall,
+968,1985,Utah Jazz,6,129,Jim Miller,
+969,1985,Utah Jazz,7,151,Mike Wacker,
+970,1984,Utah Jazz,1,16,John Stockton,Gonzaga University
+971,1984,Utah Jazz,3,62,David Pope,Norfolk State University
+972,1984,Utah Jazz,4,86,Jim Rowinski,Purdue University
+973,1984,Utah Jazz,5,108,Marcus Gaither,
+974,1984,Utah Jazz,6,132,Chris Harrison,
+975,1984,Utah Jazz,7,154,Bob Evans,
+976,1984,Utah Jazz,8,178,Eric Booker,
+977,1984,Utah Jazz,9,199,Kelly Knight,
+978,1984,Utah Jazz,10,222,Mike Curran,
+979,1983,Utah Jazz,1,7,Thurl Bailey,North Carolina State University
+980,1983,Utah Jazz,3,54,Bob Hansen,University of Iowa
+981,1983,Utah Jazz,4,76,Doug Arnold,
+982,1983,Utah Jazz,5,100,Matt Clark,
+983,1983,Utah Jazz,6,122,Fred Gilliam,
+984,1983,Utah Jazz,7,146,Joe Kazanowski,
+985,1983,Utah Jazz,8,168,Michael McCombs,
+986,1983,Utah Jazz,9,191,Ron Webb,
+987,1983,Utah Jazz,10,211,Odell Mosteller,
+988,1982,Utah Jazz,1,3,Dominique Wilkins,University of Georgia
+989,1982,Utah Jazz,3,49,Steve Trumbo,
+990,1982,Utah Jazz,3,55,Jerry Eaves,University of Louisville
+991,1982,Utah Jazz,4,72,Mark Eaton,University of California Los Angeles
+992,1982,Utah Jazz,5,95,Mike McKay,
+993,1982,Utah Jazz,6,118,Alvin Jackson,
+994,1982,Utah Jazz,7,141,Thad Gardner,
+995,1982,Utah Jazz,8,164,Rick Campbell,
+996,1982,Utah Jazz,9,187,Riley Clarida,
+997,1982,Utah Jazz,10,208,Michael Edwards,
+998,1981,Utah Jazz,1,13,Danny Schayes,Syracuse University
+999,1981,Utah Jazz,2,27,Howard Wood,University of Tennessee
+1000,1981,Utah Jazz,4,73,George Torres,
+1001,1981,Utah Jazz,5,97,Mike Clark,
+1002,1981,Utah Jazz,6,119,Kevin Sprewer,
+1003,1981,Utah Jazz,7,143,Mike Robinson,
+1004,1981,Utah Jazz,8,165,Bobby Cattage,Auburn University
+1005,1981,Utah Jazz,9,188,Ken Ollie,
+1006,1981,Utah Jazz,10,207,Joe Merten,
+1007,1980,Utah Jazz,1,2,Darrell Griffith,University of Louisville
+1008,1980,Utah Jazz,1,19,John Duren,Georgetown University
+1009,1980,Utah Jazz,4,72,Alan Taylor,
+1010,1980,Utah Jazz,5,94,Wally West,
+1011,1980,Utah Jazz,6,118,Ken Cunningham,
+1012,1980,Utah Jazz,7,140,Dave Colescott,
+1013,1980,Utah Jazz,8,163,Jim Brandon,
+1014,1980,Utah Jazz,9,181,Paul Renfro,
+1015,1980,Utah Jazz,10,201,Leroy Coleman,
+1016,1979,Utah Jazz,1,20,Larry Knight,
+1017,1979,Utah Jazz,2,23,Tico Brown,
+1018,1979,Utah Jazz,3,45,Arvid Kramer,Augustana College (SD)
+1019,1979,Utah Jazz,4,67,Greg Deane,University of Utah
+1020,1979,Utah Jazz,5,89,Wolfe Perry,
+1021,1979,Utah Jazz,6,109,Ernie Cobb,
+1022,1979,Utah Jazz,7,129,Paul Poe,
+1023,1979,Utah Jazz,8,148,Keith McDonald,
+1024,1979,Utah Jazz,9,167,Milt Huggins,
+1025,1979,Utah Jazz,10,185,Paul Dawkins,Northern Illinois University
+1026,1978,Utah Jazz,1,11,James Hardy,University of San Francisco
+1027,1978,Utah Jazz,2,35,Tommie Green,Southern University and A&M College
+1028,1978,Utah Jazz,4,74,Mel Davis,
+1029,1978,Utah Jazz,4,75,Jeff Covington,
+1030,1978,Utah Jazz,5,96,Duck Williams,University of Notre Dame
+1031,1978,Utah Jazz,6,118,John Douglas,University of Kansas
+1032,1978,Utah Jazz,7,139,Willie Howard,
+1033,1978,Utah Jazz,8,158,Carl Kilpatrick,University of Louisiana at Monroe
+1034,1978,Utah Jazz,9,175,Chad Nelson,
+1035,1978,Utah Jazz,10,190,Rickey Williams,California State University Long Beach
+1036,1977,Utah Jazz,2,44,Essie Hollis,St. Bonaventure University
+1037,1977,Utah Jazz,3,50,Tony Hanson,
+1038,1977,Utah Jazz,4,72,Dennis Boyd,University of Detroit Mercy
+1039,1977,Utah Jazz,5,94,Jim Grady,
+1040,1977,Utah Jazz,6,116,Wayne Golden,
+1041,1977,Utah Jazz,7,137,Lusia Harris,
+1042,1977,Utah Jazz,8,157,Dave Speicher,
+1043,1976,Utah Jazz,2,26,Jacky Dorsey,University of Georgia
+1044,1976,Utah Jazz,3,42,Steve Copp,
+1045,1976,Utah Jazz,4,58,John Service,
+1046,1976,Utah Jazz,5,74,Paul Griffin,Western Michigan University
+1047,1976,Utah Jazz,6,94,Barnard Tomlin,
+1048,1976,Utah Jazz,7,111,Andy Walker,Niagara University
+1049,1976,Utah Jazz,8,128,Richard Bryant,
+1050,1976,Utah Jazz,9,148,Calvin Robinson,
+1051,1976,Utah Jazz,10,164,Art Johnson,
+1052,1975,Utah Jazz,1,7,Rich Kelley,Stanford University
+1053,1975,Utah Jazz,3,37,Rudy Hackett,Syracuse University
+1054,1975,Utah Jazz,3,38,Jim McElroy,Central Michigan University
+1055,1975,Utah Jazz,4,55,Mack Coleman,
+1056,1975,Utah Jazz,5,73,Andre Hampton,
+1057,1975,Utah Jazz,6,91,Rich Schmidt,
+1058,1975,Utah Jazz,7,109,Bill Higgins,Ashland University
+1059,1975,Utah Jazz,8,127,Harvey Carmichael,
+1060,1975,Utah Jazz,9,145,Fred Stokes,
+1061,1975,Utah Jazz,10,161,Aleksander Belov,
+1062,1974,Utah Jazz,2,28,Aaron James,Grambling State University
+1063,1974,Utah Jazz,3,46,Bruce King,
+1064,1974,Utah Jazz,4,64,Ray Price,
+1065,1974,Utah Jazz,5,82,Ed Searcy,St. John's University
+1066,1974,Utah Jazz,6,100,Lawrence McCray,
+1067,1974,Utah Jazz,7,118,Joel Copeland,
+1068,1974,Utah Jazz,8,136,Jay Piccola,
+1069,1974,Utah Jazz,9,154,Ken Boyd,Boston University
+1070,1974,Utah Jazz,10,171,Walt McGary,
+1071,2018,Oklahoma City Thunder,2,53,Devon Hall,University of Virginia
+1072,2018,Oklahoma City Thunder,2,57,Kevin Hervey,University of Texas at Arlington
+1073,2017,Oklahoma City Thunder,1,21,Terrance Ferguson,
+1074,2015,Oklahoma City Thunder,1,14,Cameron Payne,Murray State University
+1075,2015,Oklahoma City Thunder,2,48,Dakari Johnson,University of Kentucky
+1076,2014,Oklahoma City Thunder,1,21,Mitch McGary,University of Michigan
+1077,2014,Oklahoma City Thunder,1,29,Josh Huestis,Stanford University
+1078,2013,Oklahoma City Thunder,1,12,Steven Adams,University of Pittsburgh
+1079,2013,Oklahoma City Thunder,1,29,Archie Goodwin,University of Kentucky
+1080,2013,Oklahoma City Thunder,2,32,Alex Abrines,
+1081,2012,Oklahoma City Thunder,1,28,Perry Jones,Baylor University
+1082,2011,Oklahoma City Thunder,1,24,Reggie Jackson,Boston College
+1083,2010,Oklahoma City Thunder,1,18,Eric Bledsoe,University of Kentucky
+1084,2010,Oklahoma City Thunder,1,21,Craig Brackins,Iowa State University
+1085,2010,Oklahoma City Thunder,1,26,Quincy Pondexter,University of Washington
+1086,2010,Oklahoma City Thunder,2,51,Magnum Rolle,
+1087,2009,Oklahoma City Thunder,1,3,James Harden,Arizona State University
+1088,2009,Oklahoma City Thunder,1,25,Rodrigue Beaubois,
+1089,2008,Oklahoma City Thunder,1,4,Russell Westbrook,University of California Los Angeles
+1090,2008,Oklahoma City Thunder,1,24,Serge Ibaka,
+1091,2008,Oklahoma City Thunder,2,32,Walter Sharpe,University of Alabama at Birmingham
+1092,2008,Oklahoma City Thunder,2,46,Trent Plaisted,
+1093,2008,Oklahoma City Thunder,2,50,DeVon Hardin,University of California
+1094,2008,Oklahoma City Thunder,2,56,Sasha Kaun,University of Kansas
+1095,2007,Oklahoma City Thunder,1,2,Kevin Durant,University of Texas at Austin
+1096,2007,Oklahoma City Thunder,2,31,Carl Landry,Purdue University
+1097,2007,Oklahoma City Thunder,2,35,Glen Davis,Louisiana State University
+1098,2006,Oklahoma City Thunder,1,10,Mouhamed Sene,
+1099,2006,Oklahoma City Thunder,2,40,Denham Brown,
+1100,2006,Oklahoma City Thunder,2,53,Yotam Halperin,
+1101,2005,Oklahoma City Thunder,1,25,Johan Petro,
+1102,2005,Oklahoma City Thunder,2,48,Mickael Gelabale,
+1103,2005,Oklahoma City Thunder,2,55,Lawrence Roberts,Mississippi State University
+1104,2004,Oklahoma City Thunder,1,12,Robert Swift,
+1105,2004,Oklahoma City Thunder,2,35,Andre Emmett,Texas Tech University
+1106,2004,Oklahoma City Thunder,2,41,David Young,
+1107,2003,Oklahoma City Thunder,1,12,Nick Collison,University of Kansas
+1108,2003,Oklahoma City Thunder,1,14,Luke Ridnour,University of Oregon
+1109,2003,Oklahoma City Thunder,2,41,Willie Green,University of Detroit Mercy
+1110,2002,Oklahoma City Thunder,2,49,Peter Fehse,
+1111,2001,Oklahoma City Thunder,1,12,Vladimir Radmanovic,
+1112,2001,Oklahoma City Thunder,2,40,Earl Watson,University of California Los Angeles
+1113,2001,Oklahoma City Thunder,2,42,Bobby Simmons,DePaul University
+1114,2000,Oklahoma City Thunder,1,17,Desmond Mason,Oklahoma State University
+1115,2000,Oklahoma City Thunder,2,42,Olumide Oyedeji,
+1116,2000,Oklahoma City Thunder,2,47,Josip Sesar,
+1117,1999,Oklahoma City Thunder,1,13,Corey Maggette,Duke University
+1118,1998,Oklahoma City Thunder,1,27,Vladimir Stepania,
+1119,1998,Oklahoma City Thunder,2,32,Rashard Lewis,
+1120,1998,Oklahoma City Thunder,2,33,Jelani McCoy,University of California Los Angeles
+1121,1997,Oklahoma City Thunder,1,23,Bobby Jackson,University of Minnesota
+1122,1997,Oklahoma City Thunder,2,40,Eddie Elisma,
+1123,1997,Oklahoma City Thunder,2,54,Mark Blount,University of Pittsburgh
+1124,1996,Oklahoma City Thunder,2,35,Joseph Blair,
+1125,1996,Oklahoma City Thunder,2,45,Joe Vogel,
+1126,1996,Oklahoma City Thunder,2,47,Ron Riley,
+1127,1996,Oklahoma City Thunder,2,57,Drew Barry,Georgia Institute of Technology
+1128,1995,Oklahoma City Thunder,1,26,Sherell Ford,University of Illinois at Chicago
+1129,1995,Oklahoma City Thunder,2,54,Aurelijius Zukauskas,
+1130,1994,Oklahoma City Thunder,1,11,Carlos Rogers,Tennessee State University
+1131,1994,Oklahoma City Thunder,2,37,Dontonio Wingfield,University of Cincinnati
+1132,1994,Oklahoma City Thunder,2,54,Zeljko Rebraca,
+1133,1993,Oklahoma City Thunder,1,23,Ervin Johnson,University of New Orleans
+1134,1993,Oklahoma City Thunder,2,42,Adonis Jordan,University of Kansas
+1135,1992,Oklahoma City Thunder,1,17,Doug Christie,Pepperdine University
+1136,1992,Oklahoma City Thunder,2,45,Chris King,Wake Forest University
+1137,1991,Oklahoma City Thunder,1,14,Rich King,University of Nebraska
+1138,1990,Oklahoma City Thunder,1,2,Gary Payton,Oregon State University
+1139,1990,Oklahoma City Thunder,2,38,Jud Buechler,University of Arizona
+1140,1990,Oklahoma City Thunder,2,53,Abdul Shamsid-Deen,
+1141,1989,Oklahoma City Thunder,1,16,Dana Barros,Boston College
+1142,1989,Oklahoma City Thunder,1,17,Shawn Kemp,Trinity Valley Community College
+1143,1988,Oklahoma City Thunder,1,15,Gary Grant,University of Michigan
+1144,1988,Oklahoma City Thunder,3,65,Corey Gaines,Loyola Marymount University
+1145,1987,Oklahoma City Thunder,1,5,Scottie Pippen,University of Central Arkansas
+1146,1987,Oklahoma City Thunder,1,9,Derrick McKey,University of Alabama
+1147,1987,Oklahoma City Thunder,3,55,Tommy Amaker,
+1148,1987,Oklahoma City Thunder,4,78,Todd Linder,
+1149,1987,Oklahoma City Thunder,5,101,Michael Tait,
+1150,1987,Oklahoma City Thunder,6,124,Tom Gneiting,
+1151,1987,Oklahoma City Thunder,7,147,Mike Giomi,
+1152,1986,Oklahoma City Thunder,2,30,Nate McMillan,North Carolina State University
+1153,1986,Oklahoma City Thunder,2,38,Lemone Lampley,
+1154,1986,Oklahoma City Thunder,3,53,Tod Murphy,University of California Irvine
+1155,1986,Oklahoma City Thunder,4,76,Michael Graham,
+1156,1986,Oklahoma City Thunder,5,99,Dominic Pressley,Boston College
+1157,1986,Oklahoma City Thunder,6,122,Curtis Kitchen,University of South Florida
+1158,1986,Oklahoma City Thunder,7,145,Glen McCants,
+1159,1985,Oklahoma City Thunder,1,4,Xavier McDaniel,Wichita State University
+1160,1985,Oklahoma City Thunder,3,53,Rolando Lamb,
+1161,1985,Oklahoma City Thunder,4,75,Alex Stivrins,University of Colorado
+1162,1985,Oklahoma City Thunder,5,97,Lou Stefanovic,
+1163,1985,Oklahoma City Thunder,6,122,Earl Walker,
+1164,1985,Oklahoma City Thunder,7,144,Michael Phelps,Alcorn State University
+1165,1984,Oklahoma City Thunder,2,28,Cory Blackwell,University of Wisconsin
+1166,1984,Oklahoma City Thunder,2,39,Danny Young,Wake Forest University
+1167,1984,Oklahoma City Thunder,3,52,Terry Williams,
+1168,1984,Oklahoma City Thunder,4,83,Jeff Jenkins,
+1169,1984,Oklahoma City Thunder,5,106,Eli Pasquale,
+1170,1984,Oklahoma City Thunder,6,129,Graylin Warner,
+1171,1984,Oklahoma City Thunder,7,152,Gary Gatewood,
+1172,1984,Oklahoma City Thunder,8,175,Jerry McMillan,
+1173,1984,Oklahoma City Thunder,9,197,Mike Williams,
+1174,1984,Oklahoma City Thunder,10,219,Greg Brandon,
+1175,1983,Oklahoma City Thunder,1,16,Jon Sundvold,University of Missouri
+1176,1983,Oklahoma City Thunder,2,36,Scooter McCray,University of Louisville
+1177,1983,Oklahoma City Thunder,3,63,Frank Burnell,
+1178,1983,Oklahoma City Thunder,4,86,Pete DeBisschop,
+1179,1983,Oklahoma City Thunder,5,109,Brad Watson,
+1180,1983,Oklahoma City Thunder,6,132,Tony Wilson,
+1181,1983,Oklahoma City Thunder,7,155,Tony Gattis,
+1182,1983,Oklahoma City Thunder,8,178,Ray Smith,
+1183,1983,Oklahoma City Thunder,9,200,Tony Washington,
+1184,1983,Oklahoma City Thunder,10,221,David Binion,
+1185,1982,Oklahoma City Thunder,3,65,John Greig,University of Oregon
+1186,1982,Oklahoma City Thunder,4,88,Ken Owens,
+1187,1982,Oklahoma City Thunder,5,111,Rod Camp,
+1188,1982,Oklahoma City Thunder,6,134,Bobby Potts,
+1189,1982,Oklahoma City Thunder,7,157,Allen Rayhorn,
+1190,1982,Oklahoma City Thunder,8,180,Steve Burks,
+1191,1981,Oklahoma City Thunder,1,5,Danny Vranes,University of Utah
+1192,1981,Oklahoma City Thunder,3,53,Mark Radford,Oregon State University
+1193,1981,Oklahoma City Thunder,5,99,Andra Griffin,
+1194,1981,Oklahoma City Thunder,6,122,Earl Banks,
+1195,1981,Oklahoma City Thunder,7,145,Tom Sienkiewicz,
+1196,1980,Oklahoma City Thunder,1,20,Bill Hanzlik,University of Notre Dame
+1197,1980,Oklahoma City Thunder,3,66,Carl Bailey,Tuskegee University
+1198,1980,Oklahoma City Thunder,4,89,Gary Ray Hooker,
+1199,1980,Oklahoma City Thunder,5,112,Lenny Horton,
+1200,1980,Oklahoma City Thunder,6,135,Jim Strickland,
+1201,1980,Oklahoma City Thunder,7,158,Carl Ervin,
+1202,1980,Oklahoma City Thunder,8,176,Al Dutch,
+1203,1980,Oklahoma City Thunder,9,197,Jim Tillman,
+1204,1980,Oklahoma City Thunder,10,212,Kent Williams,
+1205,1979,Oklahoma City Thunder,1,6,James Bailey,Rutgers University
+1206,1979,Oklahoma City Thunder,1,7,Vinnie Johnson,Baylor University
+1207,1979,Oklahoma City Thunder,2,43,Johnny Moore,University of Texas at Austin
+1208,1979,Oklahoma City Thunder,4,73,James Donaldson,Washington State University
+1209,1979,Oklahoma City Thunder,4,87,Richie Allen,
+1210,1978,Oklahoma City Thunder,2,39,James Lee,
+1211,1978,Oklahoma City Thunder,2,42,Kevin McDonald,
+1212,1978,Oklahoma City Thunder,3,61,Dave Baxter,
+1213,1978,Oklahoma City Thunder,4,83,Billy Lewis,
+1214,1978,Oklahoma City Thunder,5,105,Ralph Drollinger,University of California Los Angeles
+1215,1977,Oklahoma City Thunder,1,8,Jack Sikma,Illinois Wesleyan University
+1216,1977,Oklahoma City Thunder,3,52,Joe Hassett,Providence College
+1217,1977,Oklahoma City Thunder,4,74,Jim Cooper,
+1218,1977,Oklahoma City Thunder,5,96,Dale Haberman,
+1219,1977,Oklahoma City Thunder,6,118,Bucky O'Brien,
+1220,1977,Oklahoma City Thunder,7,138,Billy Reynolds,
+1221,1977,Oklahoma City Thunder,8,158,Jeff Frey,
+1222,1976,Oklahoma City Thunder,1,11,Bob Wilkerson,Indiana University
+1223,1976,Oklahoma City Thunder,2,19,Bayard Forrest,Grand Canyon University
+1224,1976,Oklahoma City Thunder,2,29,Dennis Johnson,Pepperdine University
+1225,1976,Oklahoma City Thunder,4,63,Willie Parr,
+1226,1976,Oklahoma City Thunder,5,80,Robert Gray,
+1227,1976,Oklahoma City Thunder,6,98,Darrell Peterson,
+1228,1976,Oklahoma City Thunder,7,116,Mark Klein,
+1229,1976,Oklahoma City Thunder,8,134,Norton Barnhill,Washington State University
+1230,1976,Oklahoma City Thunder,9,151,Ron Johnson,
+1231,1976,Oklahoma City Thunder,10,167,Ricky Lewis,
+1232,1975,Oklahoma City Thunder,1,12,Frank Oleynick,Seattle University
+1233,1975,Oklahoma City Thunder,2,21,Bruce Seals,Xavier University of Louisiana
+1234,1975,Oklahoma City Thunder,4,66,Jim Moore,
+1235,1975,Oklahoma City Thunder,5,84,Dwain Govan,
+1236,1975,Oklahoma City Thunder,6,102,Larry Smith,
+1237,1975,Oklahoma City Thunder,7,120,Hollis Miller,
+1238,1975,Oklahoma City Thunder,8,138,Ken McKenzie,
+1239,1975,Oklahoma City Thunder,9,155,Rich Haws,
+1240,1975,Oklahoma City Thunder,10,170,Jerry Bellotti,
+1241,1974,Oklahoma City Thunder,1,3,Tom Burleson,North Carolina State University
+1242,1974,Oklahoma City Thunder,2,26,Leonard Gray,California State University Long Beach
+1243,1974,Oklahoma City Thunder,3,44,Tal Skinner,University of Maryland Eastern Shore
+1244,1974,Oklahoma City Thunder,4,62,William Gordon,
+1245,1974,Oklahoma City Thunder,5,80,Dean Tolson,University of Arkansas
+1246,1974,Oklahoma City Thunder,6,98,Wardell Jackson,Ohio State University
+1247,1974,Oklahoma City Thunder,7,116,Jerry Faulkner,
+1248,1974,Oklahoma City Thunder,8,134,Leonard Coulter,
+1249,1974,Oklahoma City Thunder,9,152,Bertrand du Pont,
+1250,1974,Oklahoma City Thunder,10,169,Rod Derline,Seattle University
+1251,1973,Oklahoma City Thunder,1,4,Mike Green,Louisiana Tech University
+1252,1973,Oklahoma City Thunder,4,56,June Harris,
+1253,1973,Oklahoma City Thunder,5,73,Chuck Iverson,
+1254,1973,Oklahoma City Thunder,6,90,Bill McCoy,
+1255,1973,Oklahoma City Thunder,7,107,Jim Andrews,
+1256,1973,Oklahoma City Thunder,8,124,Wardell Jeffries,
+1257,1973,Oklahoma City Thunder,9,141,Greg Williams,
+1258,1973,Oklahoma City Thunder,10,155,Bob Bodell,
+1259,1972,Oklahoma City Thunder,1,7,Bud Stallworth,University of Kansas
+1260,1972,Oklahoma City Thunder,2,18,Joby Wright,Indiana University
+1261,1972,Oklahoma City Thunder,2,23,Brian Taylor,Princeton University
+1262,1972,Oklahoma City Thunder,3,40,Jim Creighton,University of Colorado
+1263,1972,Oklahoma City Thunder,4,57,Joe Mackey,
+1264,1972,Oklahoma City Thunder,5,73,Gary Ladd,
+1265,1972,Oklahoma City Thunder,6,90,Ronald Thomas,University of Louisville
+1266,1972,Oklahoma City Thunder,7,107,Jerry Dunn,
+1267,1972,Oklahoma City Thunder,8,123,Willy Stoudamire,
+1268,1972,Oklahoma City Thunder,9,138,Dwight Holliday,
+1269,1972,Oklahoma City Thunder,10,151,Dan Stewart,
+1270,1972,Oklahoma City Thunder,11,162,Steve Turner,
+1271,1972,Oklahoma City Thunder,12,171,Gregg Daust,
+1272,1972,Oklahoma City Thunder,14,185,Cleveland Hill,
+1273,1971,Oklahoma City Thunder,1,6,Fred Brown,University of Iowa
+1274,1971,Oklahoma City Thunder,2,23,Jim McDaniels,Western Kentucky University
+1275,1971,Oklahoma City Thunder,4,57,Pembroke Burrows,
+1276,1971,Oklahoma City Thunder,5,74,Jeff Smith,
+1277,1971,Oklahoma City Thunder,6,91,Mike Neciase,
+1278,1971,Oklahoma City Thunder,7,108,John Duncan,
+1279,1971,Oklahoma City Thunder,8,125,Charlie Lowery,University of Puget Sound
+1280,1971,Oklahoma City Thunder,9,141,Larry Holliday,
+1281,1971,Oklahoma City Thunder,10,157,Ed Huston,
+1282,1971,Oklahoma City Thunder,11,173,Jerome Perry,
+1283,1970,Oklahoma City Thunder,1,6,Jim Ard,University of Cincinnati
+1284,1970,Oklahoma City Thunder,2,20,Jake Ford,University of Maryland Eastern Shore
+1285,1970,Oklahoma City Thunder,2,23,Pete Cross,University of San Francisco
+1286,1970,Oklahoma City Thunder,3,40,Gar Heard,University of Oklahoma
+1287,1970,Oklahoma City Thunder,5,74,Boyd Lynch,
+1288,1970,Oklahoma City Thunder,6,91,Samuel Robinson,California State University Long Beach
+1289,1970,Oklahoma City Thunder,7,108,James Morgan,
+1290,1970,Oklahoma City Thunder,8,125,George Irvine,University of Washington
+1291,1970,Oklahoma City Thunder,9,142,Claude Virden,Murray State University
+1292,1970,Oklahoma City Thunder,10,159,Chuck Lloyd,Yankton College
+1293,1970,Oklahoma City Thunder,11,174,Andy Owens,
+1294,1970,Oklahoma City Thunder,12,187,John Brunson,
+1295,1970,Oklahoma City Thunder,13,197,Allen McManus,
+1296,1970,Oklahoma City Thunder,14,207,Don Beeson,
+1297,1969,Oklahoma City Thunder,1,3,Lucius Allen,University of California Los Angeles
+1298,1969,Oklahoma City Thunder,2,18,Ronald Taylor,University of Southern California
+1299,1969,Oklahoma City Thunder,3,32,Lee Winfield,University of North Texas
+1300,1969,Oklahoma City Thunder,4,46,Hal Booker,
+1301,1969,Oklahoma City Thunder,5,60,Jerry King,
+1302,1969,Oklahoma City Thunder,6,74,Ben McGilmer,
+1303,1969,Oklahoma City Thunder,7,88,Greg Wittman,Western Carolina University
+1304,1969,Oklahoma City Thunder,8,102,Theartis Wallace,
+1305,1969,Oklahoma City Thunder,9,116,Vince Fritz,
+1306,1969,Oklahoma City Thunder,10,130,Al Cueto,University of Tulsa
+1307,1969,Oklahoma City Thunder,11,144,Jim Connolly,
+1308,1969,Oklahoma City Thunder,12,158,John Smith,
+1309,1969,Oklahoma City Thunder,13,171,Bob Burrow,
+1310,1969,Oklahoma City Thunder,14,182,Jerry Conley,
+1311,1969,Oklahoma City Thunder,15,191,Ernie Powell,
+1312,1969,Oklahoma City Thunder,16,197,Danny Cornett,
+1313,1969,Oklahoma City Thunder,17,203,Steve Honeycutt,
+1314,1968,Oklahoma City Thunder,1,3,Bob Kauffman,Guilford College
+1315,1968,Oklahoma City Thunder,2,16,Art Harris,Stanford University
+1316,1968,Oklahoma City Thunder,3,24,Jeff Ockel,
+1317,1968,Oklahoma City Thunder,3,34,Ed Johnson,Tennessee State University
+1318,1968,Oklahoma City Thunder,4,38,Henry Logan,Western Carolina University
+1319,1968,Oklahoma City Thunder,5,52,Al Hairston,Bowling Green State University
+1320,1968,Oklahoma City Thunder,6,66,Ron Guziak,
+1321,1968,Oklahoma City Thunder,7,80,Jim McKean,
+1322,1968,Oklahoma City Thunder,8,94,Willie Rogers,University of Oklahoma
+1323,1968,Oklahoma City Thunder,9,108,Jimmy Smith,
+1324,1968,Oklahoma City Thunder,10,122,Joe Kennedy,Duke University
+1325,1968,Oklahoma City Thunder,11,136,Jim Marsh,University of Southern California
+1326,1968,Oklahoma City Thunder,12,149,Walt Simon,
+1327,1968,Oklahoma City Thunder,13,162,Bud Ogden,Santa Clara University
+1328,1968,Oklahoma City Thunder,14,173,Mike Warren,
+1329,1967,Oklahoma City Thunder,1,6,Al Tucker,Oklahoma Baptist University
+1330,1967,Oklahoma City Thunder,2,19,Bob Rule,Colorado State University
+1331,1967,Oklahoma City Thunder,3,30,Sam Singleton,
+1332,1967,Oklahoma City Thunder,4,43,Larry Bunce,Utah State University
+1333,1967,Oklahoma City Thunder,5,54,Plummer Lott,Seattle University
+1334,1967,Oklahoma City Thunder,6,67,Gordon Harris,
+1335,1967,Oklahoma City Thunder,7,78,Dick Kolbert,
+1336,1967,Oklahoma City Thunder,8,91,Willie Wolters,
+1337,1967,Oklahoma City Thunder,9,101,Roderick McDonald,Whitworth
+1338,1967,Oklahoma City Thunder,10,113,Gary Lechman,
+1339,1967,Oklahoma City Thunder,11,122,Randy Matson,
+1340,1967,Oklahoma City Thunder,12,133,Rubin Russell,University of North Texas
+1341,1967,Oklahoma City Thunder,13,140,John Schroeder,
+1342,1967,Oklahoma City Thunder,14,147,Jim Sutherland,
+1343,1967,Oklahoma City Thunder,15,152,Willie Campbell,
+1344,2018,San Antonio Spurs,1,18,Lonnie Walker,University of Miami
+1345,2018,San Antonio Spurs,2,49,Chimezie Metu,University of Southern California
+1346,2017,San Antonio Spurs,1,29,Derrick White,University of Colorado
+1347,2017,San Antonio Spurs,2,59,Jaron Blossomgame,Clemson University
+1348,2016,San Antonio Spurs,1,29,Dejounte Murray,University of Washington
+1349,2015,San Antonio Spurs,1,26,Nikola Milutinov,
+1350,2015,San Antonio Spurs,2,55,Cady Lalanne,University of Massachusetts Amherst
+1351,2014,San Antonio Spurs,1,30,Kyle Anderson,University of California Los Angeles
+1352,2014,San Antonio Spurs,2,58,Jordan McRae,University of Tennessee
+1353,2014,San Antonio Spurs,2,60,Cory Jefferson,Baylor University
+1354,2013,San Antonio Spurs,1,28,Livio Jean-Charles,
+1355,2013,San Antonio Spurs,2,58,Deshaun Thomas,Ohio State University
+1356,2012,San Antonio Spurs,2,59,Marcus Denmon,University of Missouri
+1357,2011,San Antonio Spurs,1,29,Cory Joseph,University of Texas at Austin
+1358,2011,San Antonio Spurs,2,59,Adam Hanga,
+1359,2010,San Antonio Spurs,1,20,James Anderson,Oklahoma State University
+1360,2010,San Antonio Spurs,2,49,Ryan Richards,
+1361,2009,San Antonio Spurs,2,37,DeJuan Blair,University of Pittsburgh
+1362,2009,San Antonio Spurs,2,51,Jack McClinton,
+1363,2009,San Antonio Spurs,2,53,Nando De Colo,
+1364,2008,San Antonio Spurs,1,26,George Hill,Indiana University-Purdue University Indianapolis
+1365,2008,San Antonio Spurs,2,45,Goran Dragic,
+1366,2008,San Antonio Spurs,2,57,James Gist,
+1367,2007,San Antonio Spurs,1,28,Tiago Splitter,
+1368,2007,San Antonio Spurs,2,33,Marcus Williams,University of Arizona
+1369,2007,San Antonio Spurs,2,58,Giorgos Printezis,
+1370,2006,San Antonio Spurs,2,59,Damir Markota,
+1371,2005,San Antonio Spurs,1,28,Ian Mahinmi,
+1372,2004,San Antonio Spurs,1,28,Beno Udrih,
+1373,2004,San Antonio Spurs,2,52,Romain Sato,
+1374,2004,San Antonio Spurs,2,57,Sergei Karaulov,
+1375,2003,San Antonio Spurs,1,28,Leandro Barbosa,
+1376,2002,San Antonio Spurs,1,26,John Salmons,University of Miami
+1377,2002,San Antonio Spurs,2,56,Luis Scola,
+1378,2002,San Antonio Spurs,2,57,Randy Holcomb,San Diego State University
+1379,2001,San Antonio Spurs,1,28,Tony Parker,
+1380,2001,San Antonio Spurs,2,56,Robertas Javtokas,
+1381,2001,San Antonio Spurs,2,58,Bryan Bracey,
+1382,2000,San Antonio Spurs,2,41,Chris Carrawell,
+1383,2000,San Antonio Spurs,2,54,Cory Hightower,
+1384,1999,San Antonio Spurs,1,29,Leon Smith,
+1385,1999,San Antonio Spurs,2,57,Manu Ginobili,
+1386,1998,San Antonio Spurs,1,24,Felipe Lopez,St. John's University
+1387,1998,San Antonio Spurs,2,52,Derrick Dial,Eastern Michigan University
+1388,1997,San Antonio Spurs,1,1,Tim Duncan,Wake Forest University
+1389,1995,San Antonio Spurs,1,29,Cory Alexander,University of Virginia
+1390,1994,San Antonio Spurs,1,22,Bill Curley,Boston College
+1391,1993,San Antonio Spurs,2,47,Chris Whitney,Clemson University
+1392,1992,San Antonio Spurs,1,18,Tracy Murray,University of California Los Angeles
+1393,1992,San Antonio Spurs,2,44,Henry Williams,
+1394,1991,San Antonio Spurs,2,49,Greg Sutton,Oral Roberts University
+1395,1990,San Antonio Spurs,1,24,Dwayne Schintzius,University of Florida
+1396,1990,San Antonio Spurs,2,43,Tony Massenburg,University of Maryland
+1397,1990,San Antonio Spurs,2,54,Sean Higgins,University of Michigan
+1398,1989,San Antonio Spurs,1,3,Sean Elliott,University of Arizona
+1399,1988,San Antonio Spurs,1,10,Willie Anderson,University of Georgia
+1400,1988,San Antonio Spurs,2,27,Shelton Jones,St. John's University
+1401,1988,San Antonio Spurs,3,56,Barry Sumpter,Austin Peay State University
+1402,1988,San Antonio Spurs,3,75,Archie Marshall,
+1403,1987,San Antonio Spurs,1,1,David Robinson,United States Naval Academy
+1404,1987,San Antonio Spurs,1,23,Greg Anderson,University of Houston
+1405,1987,San Antonio Spurs,2,27,Nate Blackwell,Temple University
+1406,1987,San Antonio Spurs,3,50,Phil Zevenbergen,University of Washington
+1407,1987,San Antonio Spurs,4,73,Todd May,
+1408,1987,San Antonio Spurs,5,96,Dennis Williams,
+1409,1987,San Antonio Spurs,6,119,Ricky Brown,
+1410,1987,San Antonio Spurs,7,142,Raynard Davis,
+1411,1986,San Antonio Spurs,1,10,Johnny Dawkins,Duke University
+1412,1986,San Antonio Spurs,2,33,Kevin Duckworth,Eastern Illinois University
+1413,1986,San Antonio Spurs,3,48,Forrest McKenzie,Loyola Marymount University
+1414,1986,San Antonio Spurs,4,79,Carlos Briggs,
+1415,1986,San Antonio Spurs,5,102,Earl Kelley,
+1416,1986,San Antonio Spurs,6,125,Kevin Lewis,
+1417,1986,San Antonio Spurs,7,148,Michael Anderson,
+1418,1985,San Antonio Spurs,1,14,Alfredrick Hughes,Loyola University of Chicago
+1419,1985,San Antonio Spurs,2,29,Mike Brittain,University of South Carolina
+1420,1985,San Antonio Spurs,2,35,Tyrone Corbin,DePaul University
+1421,1985,San Antonio Spurs,4,82,Scott Roth,University of Wisconsin
+1422,1985,San Antonio Spurs,5,106,Clayton Olivier,
+1423,1985,San Antonio Spurs,6,128,Chris Harper,
+1424,1985,San Antonio Spurs,7,152,Al Young,
+1425,1984,San Antonio Spurs,1,7,Alvin Robertson,University of Arkansas
+1426,1984,San Antonio Spurs,3,57,Joe Binion,North Carolina A&T
+1427,1984,San Antonio Spurs,4,78,John Devereaux,
+1428,1984,San Antonio Spurs,4,90,Ozell Jones,California State University Fullerton
+1429,1984,San Antonio Spurs,5,100,Eric Richardson,
+1430,1984,San Antonio Spurs,6,124,Dion Brown,
+1431,1984,San Antonio Spurs,7,146,Michael Pitts,
+1432,1984,San Antonio Spurs,8,170,Dan Tarkanian,
+1433,1984,San Antonio Spurs,9,191,Melvin Roseboro,
+1434,1984,San Antonio Spurs,10,214,Frank Rodriguez,
+1435,1983,San Antonio Spurs,1,19,John Paxson,University of Notre Dame
+1436,1983,San Antonio Spurs,2,35,Darrell Lockhart,Auburn University
+1437,1983,San Antonio Spurs,2,46,Kevin Williams,St. John's University
+1438,1983,San Antonio Spurs,4,90,Brant Weidner,College of William & Mary
+1439,1983,San Antonio Spurs,5,112,Jeff Pehl,
+1440,1983,San Antonio Spurs,6,136,Ricky Hooker,
+1441,1983,San Antonio Spurs,7,158,Keith Williams,
+1442,1983,San Antonio Spurs,8,182,Norville Brown,
+1443,1983,San Antonio Spurs,9,203,Gary Gaspard,
+1444,1983,San Antonio Spurs,10,225,Lamar Heard,
+1445,1982,San Antonio Spurs,2,24,Oliver Robinson,University of Alabama at Birmingham
+1446,1982,San Antonio Spurs,3,64,Willie Redden,
+1447,1982,San Antonio Spurs,4,87,Tony Grier,
+1448,1982,San Antonio Spurs,5,110,Clarence Swannegan,
+1449,1982,San Antonio Spurs,6,133,Jaime Pena,
+1450,1982,San Antonio Spurs,7,156,Delonte Taylor,
+1451,1982,San Antonio Spurs,8,179,Chris Faggi,
+1452,1982,San Antonio Spurs,9,201,Harry O'Brien,
+1453,1982,San Antonio Spurs,10,222,Keith White,
+1454,1981,San Antonio Spurs,2,28,Gene Banks,Duke University
+1455,1981,San Antonio Spurs,2,30,Ed Rains,University of South Alabama
+1456,1981,San Antonio Spurs,3,64,Tom Baker,
+1457,1981,San Antonio Spurs,4,87,Earl Belcher,
+1458,1981,San Antonio Spurs,5,110,Mike Rhodes,
+1459,1981,San Antonio Spurs,6,133,Norman Shavers,
+1460,1981,San Antonio Spurs,7,156,Mark Minderman,
+1461,1981,San Antonio Spurs,8,178,Bob Bartholomew,
+1462,1981,San Antonio Spurs,9,199,Leonel Marquetti,
+1463,1981,San Antonio Spurs,10,219,Alvin Brooks,
+1464,1980,San Antonio Spurs,1,15,Reggie Johnson,University of Tennessee
+1465,1980,San Antonio Spurs,2,39,Michael Wiley,California State University Long Beach
+1466,1980,San Antonio Spurs,3,60,Lavon Mercer,
+1467,1980,San Antonio Spurs,3,61,Rich Yonakor,University of North Carolina
+1468,1980,San Antonio Spurs,4,83,Calvin Roberts,
+1469,1980,San Antonio Spurs,5,107,Gib Hinz,
+1470,1980,San Antonio Spurs,6,129,Dean Uthoff,
+1471,1980,San Antonio Spurs,7,153,Allan Zahn,
+1472,1980,San Antonio Spurs,8,172,Bill Bailey,
+1473,1980,San Antonio Spurs,9,192,Al Williams,
+1474,1980,San Antonio Spurs,10,209,Steve Schall,
+1475,1979,San Antonio Spurs,1,19,Wiley Peck,Mississippi State University
+1476,1979,San Antonio Spurs,3,63,Sylvester Norris,Jackson State University
+1477,1979,San Antonio Spurs,4,84,Al Daniel,
+1478,1979,San Antonio Spurs,5,106,Steve Schall,
+1479,1979,San Antonio Spurs,6,125,Terry Knight,
+1480,1979,San Antonio Spurs,7,146,Tyrone Branyan,
+1481,1979,San Antonio Spurs,9,182,Eddie McLeod,
+1482,1979,San Antonio Spurs,10,199,Glen Fine,
+1483,1978,San Antonio Spurs,1,20,Frankie Sanders,Southern University and A&M College
+1484,1978,San Antonio Spurs,3,64,Gerald Henderson,Virginia Commonwealth University
+1485,1978,San Antonio Spurs,4,86,Rich Adams,
+1486,1978,San Antonio Spurs,5,108,Eugene Parker,
+1487,1978,San Antonio Spurs,6,129,Harry Morgan,
+1488,1978,San Antonio Spurs,7,150,Hector Olivencia,
+1489,1978,San Antonio Spurs,8,168,Henry Taylor,
+1490,1978,San Antonio Spurs,9,185,Rick Taylor,
+1491,1978,San Antonio Spurs,10,200,Larry Brewster,
+1492,1977,San Antonio Spurs,2,37,Jeff Wilkins,Illinois State University
+1493,1977,San Antonio Spurs,3,59,Dan Henderson,
+1494,1977,San Antonio Spurs,4,81,Matt Hicks,
+1495,1977,San Antonio Spurs,5,103,Scott Sims,University of Missouri
+1496,1977,San Antonio Spurs,6,125,Bruce Buckley,
+1497,1977,San Antonio Spurs,7,145,Richard Robinson,
+1498,1977,San Antonio Spurs,8,164,Jerome Gladney,
+1499,2018,Los Angeles Clippers,1,12,Miles Bridges,Michigan State University
+1500,2018,Los Angeles Clippers,1,13,Jerome Robinson,Boston College
+1501,2016,Los Angeles Clippers,1,25,Brice Johnson,University of North Carolina
+1502,2016,Los Angeles Clippers,2,33,Cheick Diallo,University of Kansas
+1503,2014,Los Angeles Clippers,1,28,C.J. Wilcox,University of Washington
+1504,2013,Los Angeles Clippers,1,25,Reggie Bullock,University of North Carolina
+1505,2012,Los Angeles Clippers,2,53,Furkan Aldemir,
+1506,2011,Los Angeles Clippers,2,37,Trey Thompkins,University of Georgia
+1507,2011,Los Angeles Clippers,2,47,Travis Leslie,University of Georgia
+1508,2010,Los Angeles Clippers,1,8,Al-Farouq Aminu,Wake Forest University
+1509,2010,Los Angeles Clippers,2,54,Willie Warren,University of Oklahoma
+1510,2009,Los Angeles Clippers,1,1,Blake Griffin,University of Oklahoma
+1511,2008,Los Angeles Clippers,1,7,Eric Gordon,Indiana University
+1512,2008,Los Angeles Clippers,2,35,DeAndre Jordan,Texas A&M University
+1513,2007,Los Angeles Clippers,1,14,Al Thornton,Florida State University
+1514,2007,Los Angeles Clippers,2,45,Jared Jordan,
+1515,2006,Los Angeles Clippers,2,34,Paul Davis,Michigan State University
+1516,2006,Los Angeles Clippers,2,52,Guillermo Diaz,University of Miami
+1517,2005,Los Angeles Clippers,1,12,Yaroslav Korolev,
+1518,2005,Los Angeles Clippers,2,32,Daniel Ewing,Duke University
+1519,2004,Los Angeles Clippers,1,4,Shaun Livingston,
+1520,2004,Los Angeles Clippers,2,33,Lionel Chalmers,Xavier University
+1521,2003,Los Angeles Clippers,1,6,Chris Kaman,Central Michigan University
+1522,2003,Los Angeles Clippers,2,34,Sofoklis Schortsanitis,
+1523,2002,Los Angeles Clippers,1,8,Chris Wilcox,University of Maryland
+1524,2002,Los Angeles Clippers,1,12,Melvin Ely,California State University Fresno
+1525,2002,Los Angeles Clippers,2,41,Mario Kasun,
+1526,2001,Los Angeles Clippers,1,2,Tyson Chandler,
+1527,2000,Los Angeles Clippers,1,3,Darius Miles,
+1528,2000,Los Angeles Clippers,1,18,Quentin Richardson,DePaul University
+1529,2000,Los Angeles Clippers,2,30,Marko Jaric,
+1530,1999,Los Angeles Clippers,1,4,Lamar Odom,University of Rhode Island
+1531,1999,Los Angeles Clippers,2,31,Rico Hill,
+1532,1998,Los Angeles Clippers,1,1,Michael Olowokandi,University of the Pacific
+1533,1998,Los Angeles Clippers,1,22,Brian Skinner,Baylor University
+1534,1997,Los Angeles Clippers,1,14,Maurice Taylor,University of Michigan
+1535,1996,Los Angeles Clippers,1,7,Lorenzen Wright,University of Memphis
+1536,1996,Los Angeles Clippers,2,36,Doron Sheffer,
+1537,1995,Los Angeles Clippers,1,2,Antonio McDyess,University of Alabama
+1538,1995,Los Angeles Clippers,2,53,Constantin Popa,
+1539,1994,Los Angeles Clippers,1,7,Lamond Murray,University of California
+1540,1994,Los Angeles Clippers,1,25,Greg Minor,University of Louisville
+1541,1993,Los Angeles Clippers,1,13,Terry Dehere,Seton Hall University
+1542,1993,Los Angeles Clippers,2,53,Leonard White,
+1543,1992,Los Angeles Clippers,1,16,Randy Woods,La Salle University
+1544,1992,Los Angeles Clippers,1,25,Elmore Spencer,University of Nevada Las Vegas
+1545,1991,Los Angeles Clippers,1,22,LeRon Ellis,Syracuse University
+1546,1991,Los Angeles Clippers,2,37,Elliot Perry,University of Memphis
+1547,1991,Los Angeles Clippers,2,38,Joe Wylie,
+1548,1990,Los Angeles Clippers,1,8,Bo Kimble,Loyola Marymount University
+1549,1990,Los Angeles Clippers,1,13,Loy Vaught,University of Michigan
+1550,1989,Los Angeles Clippers,1,2,Danny Ferry,Duke University
+1551,1989,Los Angeles Clippers,2,31,Jeff Martin,Murray State University
+1552,1989,Los Angeles Clippers,2,33,Jay Edwards,Indiana University
+1553,1988,Los Angeles Clippers,1,1,Danny Manning,University of Kansas
+1554,1988,Los Angeles Clippers,1,6,Hersey Hawkins,Bradley University
+1555,1988,Los Angeles Clippers,2,45,Tom Garrick,University of Rhode Island
+1556,1988,Los Angeles Clippers,3,51,Rob Lock,University of Kentucky
+1557,1987,Los Angeles Clippers,1,4,Reggie Williams,Georgetown University
+1558,1987,Los Angeles Clippers,1,13,Joe Wolf,University of North Carolina
+1559,1987,Los Angeles Clippers,1,19,Ken Norman,University of Illinois at Urbana-Champaign
+1560,1987,Los Angeles Clippers,2,38,Norris Coleman,Kansas State University
+1561,1987,Los Angeles Clippers,3,47,Tim McCalister,
+1562,1987,Los Angeles Clippers,5,93,Chad Kessler,
+1563,1987,Los Angeles Clippers,6,116,Martin Nessley,Duke University
+1564,1987,Los Angeles Clippers,7,139,Henry Carr,
+1565,1986,Los Angeles Clippers,3,54,Dwayne Polee,Pepperdine University
+1566,1986,Los Angeles Clippers,4,78,John Brownlee,
+1567,1986,Los Angeles Clippers,5,100,Steffond Johnson,San Diego State University
+1568,1986,Los Angeles Clippers,6,124,Tim Kempton,University of Notre Dame
+1569,1986,Los Angeles Clippers,7,146,Johnny Brown,
+1570,1985,Los Angeles Clippers,1,3,Benoit Benjamin,Creighton University
+1571,1985,Los Angeles Clippers,3,52,Anicet Lavodrama,
+1572,1985,Los Angeles Clippers,4,74,Jim Deines,
+1573,1985,Los Angeles Clippers,5,99,Wayne Carlander,
+1574,1985,Los Angeles Clippers,6,121,Malcolm Thomas,
+1575,1985,Los Angeles Clippers,7,143,Gary Maloncon,
+1576,1984,Los Angeles Clippers,1,8,Lancaster Gordon,University of Louisville
+1577,1984,Los Angeles Clippers,1,14,Michael Cage,San Diego State University
+1578,1984,Los Angeles Clippers,4,75,Marc Glass,
+1579,1984,Los Angeles Clippers,5,98,Alonza Allen,
+1580,1984,Los Angeles Clippers,6,121,Phillip Haynes,
+1581,1984,Los Angeles Clippers,7,144,David Brantley,
+1582,1984,Los Angeles Clippers,8,167,Jim McLoughlin,
+1583,1984,Los Angeles Clippers,9,189,Dave Schultz,
+1584,1984,Los Angeles Clippers,10,211,Dick Mumma,
+1585,1983,Los Angeles Clippers,1,4,Byron Scott,Arizona State University
+1586,1983,Los Angeles Clippers,5,97,Manute Bol,
+1587,1983,Los Angeles Clippers,7,143,Dan Evans,
+1588,1983,Los Angeles Clippers,8,166,Mark Gannon,
+1589,1983,Los Angeles Clippers,9,188,David Maxwell,
+1590,1983,Los Angeles Clippers,10,209,Keith Smith,
+1591,1982,Los Angeles Clippers,1,2,Terry Cummings,DePaul University
+1592,1982,Los Angeles Clippers,2,32,Richard Anderson,University of California Santa Barbara
+1593,1982,Los Angeles Clippers,3,48,Craig Hodges,California State University Long Beach
+1594,1982,Los Angeles Clippers,4,71,Darius Clemons,
+1595,1982,Los Angeles Clippers,5,94,Gary Carter,
+1596,1982,Los Angeles Clippers,6,117,Eric Marbury,
+1597,1982,Los Angeles Clippers,7,140,Eddie Hughes,Colorado State University
+1598,1982,Los Angeles Clippers,8,163,Jacques Tuz,
+1599,1982,Los Angeles Clippers,9,186,John Hegwood,
+1600,1982,Los Angeles Clippers,10,207,Daryl Stovall,
+1601,1981,Los Angeles Clippers,1,8,Tom Chambers,University of Utah
+1602,1981,Los Angeles Clippers,3,54,Jim Smith,Ohio State University
+1603,1981,Los Angeles Clippers,4,77,Lee Raker,
+1604,1981,Los Angeles Clippers,5,100,Dennis Isbell,
+1605,1981,Los Angeles Clippers,6,123,Mike Pepper,
+1606,1981,Los Angeles Clippers,7,146,Randy Johnson,
+1607,1981,Los Angeles Clippers,8,168,Todd Haynes,
+1608,1981,Los Angeles Clippers,9,190,Art Jones,
+1609,1981,Los Angeles Clippers,10,210,Tony Gwynn,
+1610,1980,Los Angeles Clippers,1,9,Michael Brooks,La Salle University
+1611,1980,Los Angeles Clippers,4,76,Ed Odom,
+1612,1980,Los Angeles Clippers,5,99,Wally Rank,San Jose State University
+1613,1980,Los Angeles Clippers,6,122,Londale Theus,
+1614,1980,Los Angeles Clippers,7,145,Paul Anderson,
+1615,1979,Los Angeles Clippers,3,55,Tom Channel,
+1616,1979,Los Angeles Clippers,4,77,Lionel Garrett,
+1617,1979,Los Angeles Clippers,5,99,Greg Joyner,
+1618,1979,Los Angeles Clippers,6,119,Bob Bender,
+1619,1979,Los Angeles Clippers,7,139,Jene Grey,
+1620,1979,Los Angeles Clippers,8,158,Renaldo Lawrence,
+1621,1979,Los Angeles Clippers,9,176,Mike Dodd,
+1622,1979,Los Angeles Clippers,10,194,Greg Hunter,
+1623,1978,Los Angeles Clippers,2,41,Jerome Whitehead,Marquette University
+1624,1978,Los Angeles Clippers,3,48,Mike Santos,
+1625,1978,Los Angeles Clippers,3,51,Ricky Gallon,
+1626,1978,Los Angeles Clippers,3,65,Marvin Delph,
+1627,1978,Los Angeles Clippers,4,68,Jim Boylan,
+1628,1978,Los Angeles Clippers,4,73,Larry Harris,
+1629,1978,Los Angeles Clippers,4,76,Leroy McDonald,
+1630,1978,Los Angeles Clippers,5,90,David Thompson,
+1631,1978,Los Angeles Clippers,6,112,Bob Miscevicious,
+1632,1978,Los Angeles Clippers,7,133,Stan Pietkiewicz,Auburn University
+1633,1978,Los Angeles Clippers,8,154,Felton Young,
+1634,1978,Los Angeles Clippers,9,172,Bobby White,
+1635,1977,Los Angeles Clippers,2,24,Larry Johnson,University of Kentucky
+1636,1977,Los Angeles Clippers,4,68,Melvin Watkins,
+1637,1977,Los Angeles Clippers,5,90,Mike Hanley,
+1638,1977,Los Angeles Clippers,6,112,Curvan Lewis,
+1639,1977,Los Angeles Clippers,7,133,Mike Jackson,
+1640,1977,Los Angeles Clippers,8,153,Emery Sammons,
+1641,1976,Los Angeles Clippers,1,6,Adrian Dantley,University of Notre Dame
+1642,1976,Los Angeles Clippers,3,48,Gary Brewster,
+1643,1976,Los Angeles Clippers,6,100,Danny Odums,
+1644,1976,Los Angeles Clippers,7,118,Frank Jones,
+1645,1976,Los Angeles Clippers,8,136,Mark McAndrew,
+1646,1976,Los Angeles Clippers,9,153,Bob Rozyczko,
+1647,1976,Los Angeles Clippers,10,169,Tim Stokes,
+1648,1975,Los Angeles Clippers,3,52,George Bucci,Manhattan College
+1649,1975,Los Angeles Clippers,4,70,Bob Fleischer,
+1650,1975,Los Angeles Clippers,5,88,Sam Berry,
+1651,1975,Los Angeles Clippers,6,106,Larry Jackson,
+1652,1975,Los Angeles Clippers,7,124,Mike Franklin,
+1653,1975,Los Angeles Clippers,8,142,Allen Jones,
+1654,1975,Los Angeles Clippers,9,158,George Rautins,
+1655,1975,Los Angeles Clippers,10,172,Art Allen,
+1656,1974,Los Angeles Clippers,1,9,Tom McMillen,University of Maryland
+1657,1974,Los Angeles Clippers,3,45,Kim Hughes,University of Wisconsin
+1658,1974,Los Angeles Clippers,4,63,Bernie Harris,Virginia Commonwealth University
+1659,1974,Los Angeles Clippers,5,81,Tony Byers,
+1660,1974,Los Angeles Clippers,6,99,Gary Link,
+1661,1974,Los Angeles Clippers,7,117,Tommy Curtis,
+1662,1974,Los Angeles Clippers,8,135,Glenn Price,
+1663,1974,Los Angeles Clippers,9,153,John Falconi,
+1664,1974,Los Angeles Clippers,10,170,Andy Rimol,
+1665,1973,Los Angeles Clippers,1,3,Ernie DiGregorio,Providence College
+1666,1973,Los Angeles Clippers,3,38,Ken Charles,Fordham University
+1667,1973,Los Angeles Clippers,4,54,Doug Little,
+1668,1973,Los Angeles Clippers,5,72,Randy Noll,
+1669,1973,Los Angeles Clippers,6,88,Mike Macaluso,Canisius College
+1670,1973,Los Angeles Clippers,7,106,Tim Bassett,University of Georgia
+1671,1973,Los Angeles Clippers,8,122,Carl Jackson,
+1672,1973,Los Angeles Clippers,9,140,Bob Fullerton,
+1673,1973,Los Angeles Clippers,10,153,Nick Connor,
+1674,1973,Los Angeles Clippers,11,168,Mike Lee,
+1675,1973,Los Angeles Clippers,12,176,Aaron Covington,
+1676,1973,Los Angeles Clippers,13,184,Bob Vartanian,
+1677,1973,Los Angeles Clippers,14,190,Ron Gilliam,
+1678,1973,Los Angeles Clippers,15,195,John Fraley,
+1679,1973,Los Angeles Clippers,16,200,John Green,
+1680,1973,Los Angeles Clippers,17,204,Jim Garvin,Boston University
+1681,1973,Los Angeles Clippers,18,207,Don Johnston,
+1682,1973,Los Angeles Clippers,19,209,Ron Thorsen,
+1683,1973,Los Angeles Clippers,20,211,Phil Tollestrop,
+1684,1972,Los Angeles Clippers,1,2,Bob McAdoo,University of North Carolina
+1685,1972,Los Angeles Clippers,2,15,Harold Fox,Jacksonville University
+1686,1972,Los Angeles Clippers,3,32,Bob Morse,
+1687,1972,Los Angeles Clippers,4,49,George Bryant,
+1688,1972,Los Angeles Clippers,5,65,Arnie Berman,
+1689,1972,Los Angeles Clippers,6,82,Ed Czernota,
+1690,1972,Los Angeles Clippers,7,99,Greg Kohls,
+1691,1972,Los Angeles Clippers,8,115,Andy Denny,
+1692,1972,Los Angeles Clippers,9,131,John Collins,
+1693,1972,Los Angeles Clippers,11,158,Jim Prokell,
+1694,1972,Los Angeles Clippers,12,167,Frank Dewitt,
+1695,1972,Los Angeles Clippers,13,176,Kim Huband,
+1696,1972,Los Angeles Clippers,14,182,Greg Corson,
+1697,1972,Los Angeles Clippers,15,189,Paul Hoffman,
+1698,1972,Los Angeles Clippers,16,194,Norman Bounds,
+1699,1971,Los Angeles Clippers,1,3,Elmore Smith,Kentucky State University
+1700,1971,Los Angeles Clippers,2,19,Fred Hilton,Grambling State University
+1701,1971,Los Angeles Clippers,2,26,Amos Thomas,
+1702,1971,Los Angeles Clippers,2,30,Spencer Haywood,University of Detroit Mercy
+1703,1971,Los Angeles Clippers,4,53,Jimmy O'Brien,Boston College
+1704,1971,Los Angeles Clippers,5,70,Garry Nelson,
+1705,1971,Los Angeles Clippers,6,87,Glen Summors,
+1706,1971,Los Angeles Clippers,7,104,Randy Smith,State University of New York College at Buffalo
+1707,1971,Los Angeles Clippers,8,121,Craig Love,
+1708,1971,Los Angeles Clippers,9,138,Gary Stewart,
+1709,1971,Los Angeles Clippers,10,154,Don Ward,
+1710,1971,Los Angeles Clippers,11,170,Bill Warner,
+1711,1971,Los Angeles Clippers,12,184,Butch Webster,
+1712,1971,Los Angeles Clippers,13,197,Pete Smith,Valdosta State University
+1713,1971,Los Angeles Clippers,14,209,Ray Lavender,
+1714,1971,Los Angeles Clippers,15,218,William Chatmon,
+1715,1971,Los Angeles Clippers,16,226,James Douglas,
+1716,1971,Los Angeles Clippers,17,230,Nelson Isley,
+1717,1971,Los Angeles Clippers,18,233,Joey Meyer,
+1718,1970,Los Angeles Clippers,1,15,John Hummer,Princeton University
+1719,1970,Los Angeles Clippers,2,24,Cornell Warner,Jackson State University
+1720,1970,Los Angeles Clippers,3,43,Chip Case,
+1721,1970,Los Angeles Clippers,4,58,Erwin Polnick,
+1722,1970,Los Angeles Clippers,5,77,Robert Moore,
+1723,1970,Los Angeles Clippers,6,92,Doug Hess,
+1724,1970,Los Angeles Clippers,7,111,Cliff Shegogg,
+1725,1970,Los Angeles Clippers,8,126,Larry Woods,
+1726,1970,Los Angeles Clippers,9,145,Larry Duckworth,
+1727,1970,Los Angeles Clippers,10,160,Joe Taylor,
+1728,1970,Los Angeles Clippers,11,177,Dick Walker,

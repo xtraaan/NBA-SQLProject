@@ -1,0 +1,88 @@
+#select * 
+#from player; 
+
+#select * 
+#from team;
+
+#select *
+#from playoffGame;
+
+#select * 
+#from coach;
+
+#select * 
+#from draftPick;
+
+/* 1 List player names and age that play for the Houston Rockets and are older than 25 */
+SELECT playerName, age
+FROM player
+WHERE age > 25 and teamName = "Houston Rockets";
+
+/* 2 For each player that was draft picked for the Golden State Warriors, find the number 
+of games they each played and the total points they have scored, listed alphabetically. */
+SELECT p.playerName, p.gamesPlayed, p.totalPoints
+FROM player p, draftPick d 
+WHERE p.playerName = d.playerName and d.teamName = "Golden State Warriors"
+ORDER BY playerName;
+
+/* 3 List the team and number of playoff games that each team has won */
+SELECT distinct winner, COUNT(winner) as num_wins
+FROM playoffGame
+GROUP BY winner;
+
+/* 4  List all active coaches and their current team that have been coaching for more than 3 years */
+SELECT coachName, teamName
+FROM coach
+WHERE endYear - startYear > 3 and isActive = 1;
+
+/* 5  List all teams and the average number of total points among the players of that team */
+SELECT distinct t.teamName, AVG(p.totalPoints) as avg_total
+FROM team t, player p
+WHERE t.teamName = p.teamName
+GROUP BY teamName;
+
+/*6  Find the names of players that played more games than that of some players that have the name "Tyler",
+and find how many games they have started and  how many minutes each player has played */
+SELECT playerName, gamesStarted, minutesPlayed
+FROM player p
+WHERE p.gamesPlayed > some (SELECT p2.gamesPlayed
+				FROM player p2
+				WHERE p2.playerName like '%Tyler%');
+
+
+/* 7 Get coaches, player pairs who went to the same college */
+select coach.teamName as currTeam, coachName, playerName, coach.college as college
+from draftPick join coach on (draftPick.college = coach.college and draftPick.teamName = coach.teamName);
+
+/* 8 List counts of draft picks no longer on their original teams from 2009 to present */
+select teamName, count(draftPickID) as num_draft_picks_since_2009_no_longer_on_team
+from draftPick dp
+where dp.year >= 2009 and dp.playerName not in (select playerName 
+						from player
+						where player.teamName = dp.teamName)
+group by dp.teamName;
+
+/* 9 Get teams that won playoff series in 2018 */
+select  distinct winner as winner_of_2018_playoff_series
+from playoffGame
+where seasonYear = 2018;
+
+/* 10 Get teams that missed the playoffs in 2018 */
+select distinct teamName as missed_playoffs_in_2018
+from team
+where teamName not in (select winner from playoffGame where seasonYear = 2018 ) 
+	and teamName not in (select loser from playoffGame where seasonYear = 2018);
+
+
+/* 11 List players that were drafted by the Thunder but are now on other teams */
+select draftPick.playerName as NotOnThunder, player.teamName as current_team
+from draftPick join player on (draftPick.playerName = player.playerName)
+where draftPick.teamName = "Oklahoma City Thunder" and draftPick.teamName <> player.teamName;
+
+/* 12 List teams and their current active coaches that won the playoff finals and the year they won */
+SELECT winner as winning_team, coachName as current_coach, seasonYear
+FROM playoffGame p, coach c
+WHERE c.isActive = 1 and p.series = "Finals" and c.teamName = p.winner
+GROUP BY p.seasonYear;
+
+
